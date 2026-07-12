@@ -1,24 +1,62 @@
+<!-- ========================================================= -->
+<!--               ATHARV HOLKAR - GITHUB PROFILE              -->
+<!-- ========================================================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Atharv+Holkar;Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=33&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Atharv+Holkar;Third+Year+CSE+Student;Full+Stack+Developer;MERN+Stack+Developer;Open+to+Software+Development+Internships+2026" />
 </h1>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=ATHARV%20HOLKAR&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Open%20Source&descAlignY=60"/>
+<img src="./assets/banner.svg" width="100%">
 
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Atharv-mu">
-<img src="https://img.shields.io/github/followers/Atharv-mu?label=Followers&style=for-the-badge&color=blue"/>
-</a>
 
 <a href="https://github.com/Atharv-mu">
 <img src="https://komarev.com/ghpvc/?username=Atharv-mu&style=for-the-badge&color=blueviolet"/>
 </a>
 
+<a href="https://github.com/Atharv-mu?tab=followers">
+<img src="https://img.shields.io/github/followers/Atharv-mu?style=for-the-badge&color=blue"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20To-Internship-success?style=for-the-badge"/>
+
 </p>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name: Atharv Holkar
+
+Role: Full Stack Developer
+
+Education:
+  B.Tech Computer Science Engineering
+  Third Year
+  Medi-Caps University
+
+Location:
+  Indore, Madhya Pradesh 🇮🇳
+
+Currently Learning:
+  • MERN Stack
+  • Backend Development
+  • Data Structures & Algorithms
+  • System Design
+
+Looking For:
+  Software Development Internship (2026)
+
+Interests:
+  • Web Development
+  • Open Source
+  • Problem Solving
+```
 
 ---
 
@@ -35,191 +73,153 @@ Full Stack Developer
 
 > education
 
-B.Tech Computer Science Engineering
-Medicaps University
+Third Year B.Tech CSE
 
-> location
+> university
 
-📍 Indore, India
+Medi-Caps University
 
 > current_status
 
-🟢 Open For Internship
+🟢 Available For Internship
 
-> currently_learning
+> location
 
-MERN Stack
-Backend Development
-System Design
-Data Structures & Algorithms
+Indore, India
 
-> hobbies
+> tech
 
-Coding
-Open Source
-Building Projects
-Learning New Technologies
+React
+Node.js
+Express
+MongoDB
+Java
+JavaScript
+Python
 
-> mission
+> life
 
-Build Products That Solve Real Problems 🚀
+Eat 🍕
+Code 💻
+Sleep 😴
+Repeat 🔁
 ```
 
 ---
 
-# 🚀 About Me
+# 🎯 Career Objective
 
-```yaml
-Name: Atharv Holkar
+I'm a **Third-Year Computer Science Engineering student** at **Medi-Caps University** with a strong interest in **Full Stack Development**.
 
-Role: Full Stack Developer
+I enjoy building scalable web applications using the **MERN Stack**, solving **Data Structures & Algorithms** problems, and continuously learning modern software engineering practices.
 
-University: Medicaps University
+# 🛠️ Tech Stack
 
-Country: India
-
-City: Indore
-
-Focus:
-  - MERN Stack
-  - REST APIs
-  - Backend Development
-  - DSA
-
-Languages:
-  - Java
-  - JavaScript
-  - Python
-  - C++
-
-Database:
-  - MongoDB
-
-Frontend:
-  - HTML
-  - CSS
-  - React
-  - Tailwind CSS
-
-Backend:
-  - Node.js
-  - Express.js
-
-Tools:
-  - Git
-  - GitHub
-  - VS Code
-  - Postman
-
-Goal:
-  Become a Software Engineer at a Product-Based Company
-```
-
----
-
-# ⚡ Tech Stack
+### 💻 Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,java,cpp,python,git,github,vscode,postman,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
----
-
-# 📊 Coding Skills
-
-| Technology | Level |
-|------------|-------|
-| HTML | ⭐⭐⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐ |
-| React | ⭐⭐⭐⭐ |
-| Node.js | ⭐⭐⭐⭐ |
-| Express | ⭐⭐⭐⭐ |
-| MongoDB | ⭐⭐⭐⭐ |
-| C | ⭐⭐⭐⭐ |
-| C++ | ⭐⭐⭐ |
-| Github | ⭐⭐⭐⭐ |
-
----
-
-# 🌟 What I Do
-
-- 🌐 Build Responsive Websites
-- ⚛️ Create React Applications
-- 🔥 Develop REST APIs
-- 📦 Work with MongoDB
-- 💻 Solve DSA Problems
-- 🚀 Learn Modern Technologies
-
----
-
-# 💼 Current Focus
-
-```text
-█████████████████████░░░░░░░░ 70%
-
-✔ Full Stack Development
-
-████████████████████░░░░░░░░░ 65%
-
-✔ Data Structures
-
-███████████████████░░░░░░░░░░ 60%
-
-✔ Backend Development
-
-██████████████████████░░░░░░░ 75%
-
-✔ React Ecosystem
-
-██████████████████░░░░░░░░░░░ 55%
-
-✔ System Design
-```
-
----
-
-# 📫 Connect With Me
+### 🌐 Frontend Development
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
 
-<a href="https://linkedin.com/in/atharvholkar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+### ⚙️ Backend Development
 
-<a href="https://github.com/Atharv-mu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-<a href="https://atharvholkarportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=vercel"/>
-</a>
+### 🧰 Tools & Technologies
 
-<a href="mailto:atharvholkar41@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌍 Smart Tourism | Tourism Website |
-| 💼 Lead Finder | Lead Generation Web App |
-| 🌐 Portfolio Website | Personal Developer Portfolio |
+## 🌍 Smart Tourism
+
+A tourism platform that helps users discover destinations, explore attractions, and plan trips with a modern and responsive interface.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-# 📊 GitHub Analytics
+## 💼 Lead Finder
+
+A web application that helps businesses discover and manage potential customer leads efficiently.
+
+**Tech Stack**
+
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my projects, skills, resume, and contact information.
+
+**Tech Stack**
+
+- React.js
+- Tailwind CSS
+- JavaScript
+
+---
+
+# 📚 Currently Learning
+
+- 🚀 Advanced MERN Stack
+- 📦 Backend Architecture
+- ☁️ REST APIs
+- 🧠 Data Structures & Algorithms
+- ⚡ System Design Basics
+
+---
+
+# 🎯 2025 Goals
+
+- ✅ Master MERN Stack
+- ✅ Build 10+ Real-World Projects
+- ✅ Solve 500+ DSA Problems
+- ✅ Contribute to Open Source
+- ✅ Get a Software Development Internship
+- ✅ Improve Problem Solving Skills
+
+---
+
+# 💡 Fun Fact
+
+```text
+while(alive)
+{
+    eat();
+    code();
+    learn();
+    sleep();
+    repeat();
+}
+```
+
+---
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharv-mu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-mu&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atharv-mu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-mu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -227,9 +227,7 @@ Goal:
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-mu&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Atharv-mu&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -237,9 +235,7 @@ Goal:
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-mu&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-mu&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -247,159 +243,280 @@ Goal:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Atharv-mu&theme=tokyonight&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-mu&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-# 🚀 My Development Journey
+# 👀 Profile Visitors
 
-```text
-2024  ██████░░░░░░░░░░░░░░░  Started Programming
-
-2025  ██████████████░░░░░░░  Web Development
-
-2026  ███████████████████░░  MERN Stack + DSA
-
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharv-mu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
-# 💻 Tech I'm Working With
+# ⚡ GitHub Highlights
 
-```javascript
-const atharv = {
-    code: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Java",
-        "Python",
-        "C++"
-    ],
+<div align="center">
 
-    frontend: [
-        "React",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
+| 📌 | Information |
+|:--:|-------------|
+| 🎓 | Third Year B.Tech CSE Student |
+| 🏫 | Medi-Caps University |
+| 💻 | Full Stack Developer |
+| 🚀 | MERN Stack Enthusiast |
+| 🌱 | Currently Learning Backend & System Design |
+| 💼 | Open to Software Development Internship (2026) |
+| 📍 | Indore, Madhya Pradesh |
 
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
+</div>
 
-    database: [
-        "MongoDB"
-    ],
+---
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman"
-    ],
+# 💻 Coding Philosophy
 
-    currentFocus: "Full Stack Development",
-
-    lookingFor: "Software Engineering Internship"
+```cpp
+while (!success)
+{
+    learn();
+    build();
+    debug();
+    repeat();
 }
 ```
 
 ---
 
-# 🎯 2025 Goals
+# 🌟 Current Focus
 
-- ✅ Master MERN Stack
-- ✅ Solve 500+ DSA Problems
-- ✅ Build 10+ Projects
-- ✅ Contribute to Open Source
-- ✅ Get Internship
-- ✅ Crack Product-Based Company
-
----
-
-# 📚 Currently Learning
-
-```text
-React.js           ████████████████ 80%
-
-Node.js            ██████████████   70%
-
-Express.js         █████████████    70%
-
-MongoDB            █████████████    70%
-
-DSA                ███████████      60%
-
-System Design      ██████           35%
-```
+- 🚀 Full Stack Development
+- ⚛️ React Ecosystem
+- 🟢 Node.js & Express
+- 🍃 MongoDB
+- 📚 DSA (Java)
+- ☁️ REST APIs
+- ⚡ System Design Basics
 
 ---
 
-# 🌍 Featured Technologies
+# 📅 2025 Roadmap
+
+✔ Build Production Ready Projects
+
+✔ Master MERN Stack
+
+✔ Learn Deployment (AWS/Vercel/Render)
+
+✔ Solve 500+ DSA Problems
+
+✔ Contribute to Open Source
+
+✔ Crack a Product Based Company Internship 🚀
+
+---
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,git,github"/>
+<a href="https://linkedin.com/in/atharvholkar" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
+<a href="mailto:atharvholkar41@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-# 💡 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 😂 Programming Joke
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> ⚠️ Snake animation tab chalegi jab hum `snake.yml` workflow add karenge.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Atharv-mu/Atharv-mu/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/atharvholkar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://atharvholkarportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Atharv-mu">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://atharvholkarportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
+</p>
 
-<a href="mailto:atharvholkar41@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+---
+
+# 💼 Why Hire Me?
+
+✔ Passionate Full Stack Developer
+
+✔ Strong MERN Stack Fundamentals
+
+✔ Quick Learner & Adaptable
+
+✔ Good Team Player
+
+✔ Strong Problem Solving Skills
+
+✔ Focused on Writing Clean & Maintainable Code
+
+✔ Always Learning New Technologies
+
+✔ Open to Software Development Internship (2026)
+
+---
+
+# 📜 Certifications
+
+- 🎓 Web Development Certification
+- 💻 Java Programming
+- 🌐 Frontend Development
+- 🚀 Currently pursuing advanced MERN Stack projects
+
+> *(Replace these with your actual certificates as you earn them.)*
+
+---
+
+# 🏅 Achievements
+
+- 🎓 Third Year B.Tech CSE Student
+- 💻 Built multiple Full Stack & Frontend Projects
+- 🌍 Developed **Smart Tourism** Project
+- 💼 Created **Lead Finder** Web Application
+- 🌐 Designed & Deployed Personal Portfolio
+- 📚 Continuously improving DSA and Backend skills
+
+---
+
+# 📈 Currently Working On
+
+```text
+🚀 MERN Stack Development
+
+📚 Data Structures & Algorithms
+
+⚡ Backend APIs
+
+☁️ Deployment & Cloud
+
+🧠 System Design Basics
+```
+
+---
+
+# ❤️ Support
+
+If you like my work, don't forget to ⭐ my repositories.
+
+Your support motivates me to build more amazing projects.
+
+---
+
+# 💬 Favorite Quote
+
+> **"Code is like humor. When you have to explain it, it's bad."** — Cory House
+
+---
+
+# 📩 Contact Me
+
+📧 **Email:** atharvholkar41@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/atharvholkar
+
+🌐 **Portfolio:** https://atharvholkarportfolio.netlify.app
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+const atharv = {
+    code: true,
+    coffee: true,
+    bugs: true,
+    debugging: "Never Give Up 🚀",
+    learning: "Every Single Day"
+};
+```
+
+---
+---
+
+# 🐍 Contribution Snake
+
+> The snake animation will start working after adding the GitHub Action workflow.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atharv-mu/Atharv-mu/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+# 📈 Developer Dashboard
+
+<div align="center">
+
+| 🚀 Status | Value |
+|-----------|-------|
+| 🎓 Education | Third Year B.Tech CSE |
+| 🏫 University | Medi-Caps University |
+| 💻 Role | Full Stack Developer |
+| 🌱 Learning | MERN Stack + DSA |
+| 💼 Looking For | Software Development Internship |
+| 📍 Location | Indore, Madhya Pradesh |
+
+</div>
+
+---
+
+# 🛠 Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+📋 Planning
+   │
+   ▼
+💻 Coding
+   │
+   ▼
+🐞 Debugging
+   │
+   ▼
+🚀 Deployment
+   │
+   ▼
+📈 Improvement
+```
+
+---
+
+# 📅 2026 Goals
+
+- 🎯 Secure a Software Development Internship
+- 🚀 Master MERN Stack
+- 📚 Solve 500+ DSA Problems
+- ☁️ Learn AWS & Docker
+- 🌍 Contribute to Open Source
+- 🏆 Build Production-Ready Projects
+
+---
+
+# 💙 Thanks for Visiting
+
+<p align="center">
+
+If you enjoyed my projects or found my work helpful,
+consider giving a ⭐ to my repositories.
+
+It motivates me to keep learning and building.
+
+</p>
+
+---
+
+# 🌟 Let's Build Something Amazing Together
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Connect!;Open+to+Internship+Opportunities!"/>
 
 </p>
 
@@ -407,48 +524,18 @@ System Design      ██████           35%
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
-
-*"Code. Learn. Build. Repeat."* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f2027,50:203a43,100:2c5364"/>
 
 </p>
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
+### ⭐ Made with ❤️ by Atharv Holkar
 
-</p>
-name: Generate Snake
+**"Keep Learning • Keep Building • Keep Growing 🚀"**
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+</div>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+🚀 **Currently seeking Software Development Internship opportunities for 2026.**
 
-    permissions:
-      contents: write
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Atharv-mu
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
--
--->
+---
