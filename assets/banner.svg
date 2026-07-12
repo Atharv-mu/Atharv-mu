@@ -1,9 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-  <!-- Pure Black Background -->
-  <rect width="1200" height="300" fill="#000000" />
+  <!-- Solid Dark Background (GitHub Dark Default Color) -->
+  <rect width="100%" height="100%" fill="#0d1117" />
 
-  <!-- Text -->
-  <text x="600" y="165" font-family="Arial, sans-serif" font-size="70" fill="#FFFFFF" text-anchor="middle" font-weight="bold" letter-spacing="2">
-    SOFTWARE DEVELOPER
-  </text>
+  <!-- Developer Working illustration (Centered) -->
+  <g transform="translate(475, 50) scale(2.5)">
+    <!-- Desk -->
+    <rect x="0" y="120" width="250" height="10" fill="#30363d" rx="5" />
+    <rect x="20" y="130" width="210" height="10" fill="#21262d" rx="5" />
+    
+    <!-- Monitor -->
+    <rect x="60" y="20" width="130" height="100" fill="#21262d" rx="8" />
+    <rect x="70" y="30" width="110" height="80" fill="#0d1117" rx="5" />
+    
+    <!-- Screen Code (Typing effect) -->
+    <g fill="#58a6ff" font-family="'Fira Code', monospace" font-size="8">
+        <text x="75" y="45">function hello() {</text>
+        <text x="85" y="55">  console.log(<span fill="#a5d6ff">'</span><span fill="#9ece6a">Hello Dev!</span><span fill="#a5d6ff">'</span>);</text>
+        <text x="75" y="65">}</text>
+        <text x="75" y="85"><animate attributeName="fill" values="#58a6ff;#0d1117;#58a6ff" dur="1s" repeatCount="indefinite"/>█</text>
+    </g>
+    
+    <!-- Keyboard -->
+    <rect x="40" y="135" width="170" height="15" fill="#21262d" rx="4" />
+    <g fill="#8b949e" transform="translate(45, 145)">
+      <rect width="10" height="2" rx="1"/><rect x="15" width="15" height="2" rx="1"/><rect x="35" width="10" height="2" rx="1"/><rect x="50" width="25" height="2" rx="1"/><rect x="80" width="10" height="2" rx="1"/><rect x="95" width="15" height="2" rx="1"/><rect x="115" width="10" height="2" rx="1"/><rect x="130" width="10" height="2" rx="1"/>
+    </g>
+    
+    <!-- Developer Body -->
+    <!-- Chair -->
+    <rect x="110" y="150" width="30" height="15" fill="#8b949e" rx="2" />
+    <rect x="115" y="165" width="20" height="10" fill="#6e7681" rx="1" />
+    <!-- Torso -->
+    <path fill="#58a6ff" d="M90 135 C 90 130, 160 130, 160 135 L 155 160 L 95 160 Z"/>
+    <!-- Head -->
+    <circle cx="125" cy="110" r="18" fill="#ffdfba" />
+    <!-- Hair -->
+    <path fill="#21262d" d="M110 100 C 110 90, 140 90, 140 100 L 135 110 L 115 110 Z"/>
+    <!-- Desk Stand -->
+    <rect x="115" y="120" width="20" height="30" fill="#21262d" />
+  </g>
+  
 </svg>
