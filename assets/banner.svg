@@ -1,39 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
-  <defs>
-    <linearGradient id="bg" x1="0%" x2="100%">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-  </defs>
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
+<defs>
 
-  <text x="600"
-        y="120"
-        fill="#00F7FF"
-        font-size="52"
-        font-family="Arial"
-        text-anchor="middle"
-        font-weight="bold">
-        ATHARV HOLKAR
-  </text>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#0F2027"/>
+<stop offset="50%" stop-color="#203A43"/>
+<stop offset="100%" stop-color="#2C5364"/>
+</linearGradient>
 
-  <text x="600"
-        y="175"
-        fill="white"
-        font-size="28"
-        font-family="Arial"
-        text-anchor="middle">
-        Full Stack Developer • MERN Stack • Open Source
-  </text>
+<linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00F5FF"/>
+<stop offset="100%" stop-color="#00FFA6"/>
+</linearGradient>
 
-  <text x="600"
-        y="220"
-        fill="#80FFFF"
-        font-size="22"
-        font-family="Arial"
-        text-anchor="middle">
-        Building Scalable Web Applications 🚀
-  </text>
+</defs>
+
+<rect width="1280" height="320" fill="url(#bg)"/>
+
+<text x="640"
+y="115"
+font-size="52"
+fill="url(#text)"
+font-family="Verdana"
+font-weight="bold"
+text-anchor="middle">
+
+ATHARV HOLKAR
+
+</text>
+
+<text x="640"
+y="170"
+font-size="28"
+fill="white"
+font-family="Verdana"
+text-anchor="middle">
+
+Full Stack Developer • MERN Stack
+
+</text>
+
+<text x="640"
+y="215"
+font-size="22"
+fill="#D8F3FF"
+font-family="Verdana"
+text-anchor="middle">
+
+Third Year B.Tech CSE • Medi-Caps University
+
+</text>
+
+<text x="640"
+y="255"
+font-size="20"
+fill="#9EEAF9"
+font-family="Verdana"
+text-anchor="middle">
+
+Open To Software Development Internship • 2026
+
+</text>
+
 </svg>
