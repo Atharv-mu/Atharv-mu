@@ -1,3 +1,6 @@
+<p align="center">
+<img src="./assets/banner.svg" width="100%">
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Atharv+Holkar;Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Welcome+to+my+GitHub!" />
 </h1>
