@@ -1,1 +1,40 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <text x="600"
+        y="120"
+        fill="#00F7FF"
+        font-size="52"
+        font-family="Arial"
+        text-anchor="middle"
+        font-weight="bold">
+        ATHARV HOLKAR
+  </text>
+
+  <text x="600"
+        y="175"
+        fill="white"
+        font-size="28"
+        font-family="Arial"
+        text-anchor="middle">
+        Full Stack Developer • MERN Stack • Open Source
+  </text>
+
+  <text x="600"
+        y="220"
+        fill="#80FFFF"
+        font-size="22"
+        font-family="Arial"
+        text-anchor="middle">
+        Building Scalable Web Applications 🚀
+  </text>
+</svg>
