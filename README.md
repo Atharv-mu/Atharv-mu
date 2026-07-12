@@ -257,13 +257,12 @@ Goal:
 # 🚀 My Development Journey
 
 ```text
-2023  ██████░░░░░░░░░░░░░░░  Started Programming
+2024  ██████░░░░░░░░░░░░░░░  Started Programming
 
-2024  ██████████████░░░░░░░  Web Development
+2025  ██████████████░░░░░░░  Web Development
 
-2025  ███████████████████░░  MERN Stack + DSA
+2026  ███████████████████░░  MERN Stack + DSA
 
-2026  █████████████████████  Software Engineer 🎯
 ```
 
 ---
