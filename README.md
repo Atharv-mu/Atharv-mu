@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Atharv Holkar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | DSA | Open to Collaboration</h3>
 
 <p align="center">
   <a href="https://github.com/Atharv-mu">
