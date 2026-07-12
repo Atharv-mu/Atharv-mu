@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="YOUR_BANNER_IMAGE_URL" width="100%">
+<img src="assets/banner.svg" width="100%">
 </p>
 
 ---
