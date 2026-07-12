@@ -66,18 +66,6 @@ Modern developer portfolio with terminal UI.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Atharv-mu&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-mu&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -100,9 +88,10 @@ Modern developer portfolio with terminal UI.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+## View my portfolio website
+
 <a href="https://atharvholkarportfolio.netlify.app">
 <img src="https://skillicons.dev/icons?i=netlify"/> 
-Portfolio Website
 </a>
 
 </p>
