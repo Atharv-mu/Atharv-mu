@@ -1,3 +1,8 @@
+<p align="center">
+<img src="assets/banner.svg" width="100%">
+</p>
+
+---
 <h1 align="center">Hi 👋, I'm Atharv Holkar</h1>
 
 <p align="center">
@@ -5,12 +10,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
   </a>
 </p>
-
-<p align="center">
-<img src="assets/banner.svg" width="70%">
-</p>
-
----
 
 ## 🚀 About Me
 
