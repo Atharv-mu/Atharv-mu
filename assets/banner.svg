@@ -1,19 +1,39 @@
-<p align="center">
-  <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
-    
-    <!-- Text -->
-    <text x="50%" y="45%" font-family="Arial, sans-serif" font-size="40" fill="#ffffff" text-anchor="middle" font-weight="bold">
-      SOFTWARE DEVELOPER
-    </text>
-    
-    <!-- Subtitle -->
-    <text x="50%" y="65%" font-family="Arial, sans-serif" font-size="20" fill="#58a6ff" text-anchor="middle">
-      Building digital experiences | Atharv Holkar
-    </text>
-    
-    <!-- Decorative Line -->
-    <line x1="250" y1="120" x2="550" y2="120" stroke="#30363d" stroke-width="2"/>
-  </svg>
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <text x="600"
+        y="120"
+        fill="#00F7FF"
+        font-size="52"
+        font-family="Arial"
+        text-anchor="middle"
+        font-weight="bold">
+      
+  </text>
+
+  <text x="600"
+        y="175"
+        fill="white"
+        font-size="28"
+        font-family="Arial"
+        text-anchor="middle">
+        Software Developer
+  </text>
+
+  <text x="600"
+        y="220"
+        fill="#80FFFF"
+        font-size="22"
+        font-family="Arial"
+        text-anchor="middle">
+        Building Scalable Web Applications 🚀
+  </text>
+</svg> is type mai code do isko just ek protype smjhna 
