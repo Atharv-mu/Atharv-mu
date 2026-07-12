@@ -1,50 +1,19 @@
-<svg fill="none" viewBox="0 0 1200 300"
-xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-
-<linearGradient id="bg" x1="0" x2="1">
-<stop stop-color="#0f2027"/>
-<stop offset="0.5" stop-color="#203a43"/>
-<stop offset="1" stop-color="#2c5364"/>
-</linearGradient>
-
-</defs>
-
-
-<rect width="1200" height="300" fill="url(#bg)"/>
-
-
-<text 
-x="600"
-y="120"
-fill="#00F7FF"
-font-size="60"
-font-family="Fira Code, monospace"
-font-weight="700"
-text-anchor="middle">
-
-ATHARV HOLKAR
-
-</text>
-
-
-<text
-x="600"
-y="180"
-fill="white"
-font-size="28"
-font-family="Fira Code, monospace"
-text-anchor="middle">
-
-FULL STACK DEVELOPER • MERN STACK • OPEN SOURCE
-
-</text>
-
-
-<circle cx="100" cy="80" r="4" fill="#00F7FF"/>
-<circle cx="1100" cy="220" r="5" fill="#00F7FF"/>
-<circle cx="200" cy="230" r="3" fill="#00F7FF"/>
-<circle cx="1000" cy="70" r="3" fill="#00F7FF"/>
-
-</svg>
+<p align="center">
+  <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+    
+    <!-- Text -->
+    <text x="50%" y="45%" font-family="Arial, sans-serif" font-size="40" fill="#ffffff" text-anchor="middle" font-weight="bold">
+      SOFTWARE DEVELOPER
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="50%" y="65%" font-family="Arial, sans-serif" font-size="20" fill="#58a6ff" text-anchor="middle">
+      Building digital experiences | Atharv Holkar
+    </text>
+    
+    <!-- Decorative Line -->
+    <line x1="250" y1="120" x2="550" y2="120" stroke="#30363d" stroke-width="2"/>
+  </svg>
+</p>
