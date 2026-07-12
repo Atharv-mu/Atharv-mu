@@ -24,7 +24,7 @@
 📍 Indore, Madhya Pradesh, India
 
 <animated-image data-catayst style="float:right: right; width: 350px;">
-<img align="right" alt="Coding" src="https://github.com/user-attachments/assets/8388e716-6b28-4ba4-be8b-dce3cf253eeb" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://github.com/user-attachments/assets/8388e716-6b28-4ba4-be8b-dce3cf253eeb" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🛠 Tech Stack
 
