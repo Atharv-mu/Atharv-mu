@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Holkar</h1>
 
-<h3 align="center">
-Full Stack Developer • MERN Stack • Third Year B.Tech CSE
-</h3>
-
 <p align="center">
   <img src="./assets/banner.svg" alt="Banner" width="100%">
 </p>
