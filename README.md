@@ -1,8 +1,8 @@
-<!-- ========================================================= -->
-<!--               ATHARV HOLKAR - GITHUB PROFILE              -->
-<!-- ========================================================= -->
+<p align="center">
 
-<h1 align="center">
+<img src="./assets/banner.svg"/>
+
+</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=33&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Atharv+Holkar;Third+Year+CSE+Student;Full+Stack+Developer;MERN+Stack+Developer;Open+to+Software+Development+Internships+2026" />
 </h1>
 
