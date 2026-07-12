@@ -1,12 +1,15 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00E5FF;">Atharv Holkar</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Atharv Holkar</h1>
+
+<h3 align="center">
+Full Stack Developer • MERN Stack • Third Year B.Tech CSE
+</h3>
+
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
+  <img src="./assets/banner.svg" alt="Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Open+to+Internship+Opportunities+2026" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;Open+to+Software+Development+Internship+2026" />
 </p>
 
 <p align="center">
@@ -19,11 +22,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third Year B.Tech CSE Student at **Medi-Caps University**
-- 💻 Passionate **Full Stack Developer**
-- 🌱 Currently learning **Backend Development, MERN Stack & DSA**
+- 🎓 Third Year B.Tech CSE @ **Medi-Caps University**
+- 💻 Passionate Full Stack Developer
+- 🌱 Learning **MERN Stack**, **Backend Development**, and **DSA**
 - 🚀 Building real-world web applications
-- 💼 Looking for **Software Development Internship (2026)**
+- 💼 Open to **Software Development Internship (2026)**
 - 📍 Indore, Madhya Pradesh, India
 
 ---
@@ -38,31 +41,23 @@
 
 ## 🚀 Featured Projects
 
-### 🌍 Smart Tourism
-Tourism platform with a responsive interface for exploring destinations.
-
-### 💼 Lead Finder
-Web application to discover and manage customer leads.
-
-### 🌐 Personal Portfolio
-Modern developer portfolio showcasing projects and skills.
+| Project | Description |
+|---------|-------------|
+| 🌍 **Smart Tourism** | Tourism platform with a modern responsive UI |
+| 💼 **Lead Finder** | Lead management web application |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing my work |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Atharv-mu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-mu&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atharv-mu&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-mu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Atharv-mu&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Atharv-mu&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -93,17 +88,17 @@ Modern developer portfolio showcasing projects and skills.
 
 ## 🐍 Contribution Snake
 
+> The snake animation will appear after the GitHub Action runs successfully.
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/Atharv-mu/Atharv-mu/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Atharv-mu/Atharv-mu/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
-
-⭐ If you like my work, consider starring my repositories.
+### ⭐ Thanks for visiting my profile!
 
 *"Code • Learn • Build • Repeat 🚀"*
 
