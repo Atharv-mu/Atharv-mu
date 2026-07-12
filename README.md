@@ -1,11 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm <span style="color:#00E5FF;">Atharv Holkar</span>
 </h1>
-
-<h3 align="center">
-  Full Stack Developer • MERN Stack • Third Year CSE Student
-</h3>
-
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 </p>
