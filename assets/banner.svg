@@ -18,18 +18,6 @@
 <rect width="1280" height="320" fill="url(#bg)"/>
 
 <text x="640"
-y="115"
-font-size="52"
-fill="url(#text)"
-font-family="Verdana"
-font-weight="bold"
-text-anchor="middle">
-
-ATHARV HOLKAR
-
-</text>
-
-<text x="640"
 y="170"
 font-size="28"
 fill="white"
