@@ -23,6 +23,7 @@
 
 📍 Indore, Madhya Pradesh, India
 
+<img width="1024" height="682" alt="image" src="https://github.com/user-attachments/assets/278d751e-10e6-4ba0-a065-87c25cd74c92" />
 ---
 
 ## 🛠 Tech Stack
