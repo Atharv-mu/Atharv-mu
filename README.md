@@ -78,26 +78,6 @@ Modern developer portfolio with terminal UI.
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-mu&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Atharv-mu&theme=tokyonight&margin-w=10"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -121,6 +101,7 @@ Modern developer portfolio with terminal UI.
 </a>
 
 <a href="https://atharvholkarportfolio.netlify.app">
+<img src="https://skillicons.dev/icons?i=netlify"/> 
 Portfolio Website
 </a>
 
