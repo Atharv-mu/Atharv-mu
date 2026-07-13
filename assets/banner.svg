@@ -1,43 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-  <!-- Solid Dark Background (GitHub Dark Default Color) -->
-  <rect width="100%" height="100%" fill="#0d1117" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<rect width="1200" height="320" fill="#fcfcfc"/>
+<style>
+.t{font-family:"Comic Sans MS","Segoe Print",cursive;fill:#334;}
+.p{fill:#5b3fd6}.b{fill:#2d7ff9}
+.code{font-size:24px}.small{font-size:18px}.title{font-size:34px;font-weight:bold}
+line,path,rect,circle{stroke:#8b5cf6;stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.blue{stroke:#3b82f6}
+</style>
 
-  <!-- Developer Working illustration (Centered) -->
-  <g transform="translate(475, 50) scale(2.5)">
-    <!-- Desk -->
-    <rect x="0" y="120" width="250" height="10" fill="#30363d" rx="5" />
-    <rect x="20" y="130" width="210" height="10" fill="#21262d" rx="5" />
-    
-    <!-- Monitor -->
-    <rect x="60" y="20" width="130" height="100" fill="#21262d" rx="8" />
-    <rect x="70" y="30" width="110" height="80" fill="#0d1117" rx="5" />
-    
-    <!-- Screen Code (Typing effect) -->
-    <g fill="#58a6ff" font-family="'Fira Code', monospace" font-size="8">
-        <text x="75" y="45">function hello() {</text>
-        <text x="85" y="55">  console.log(<span fill="#a5d6ff">'</span><span fill="#9ece6a">Hello Dev!</span><span fill="#a5d6ff">'</span>);</text>
-        <text x="75" y="65">}</text>
-        <text x="75" y="85"><animate attributeName="fill" values="#58a6ff;#0d1117;#58a6ff" dur="1s" repeatCount="indefinite"/>█</text>
-    </g>
-    
-    <!-- Keyboard -->
-    <rect x="40" y="135" width="170" height="15" fill="#21262d" rx="4" />
-    <g fill="#8b949e" transform="translate(45, 145)">
-      <rect width="10" height="2" rx="1"/><rect x="15" width="15" height="2" rx="1"/><rect x="35" width="10" height="2" rx="1"/><rect x="50" width="25" height="2" rx="1"/><rect x="80" width="10" height="2" rx="1"/><rect x="95" width="15" height="2" rx="1"/><rect x="115" width="10" height="2" rx="1"/><rect x="130" width="10" height="2" rx="1"/>
-    </g>
-    
-    <!-- Developer Body -->
-    <!-- Chair -->
-    <rect x="110" y="150" width="30" height="15" fill="#8b949e" rx="2" />
-    <rect x="115" y="165" width="20" height="10" fill="#6e7681" rx="1" />
-    <!-- Torso -->
-    <path fill="#58a6ff" d="M90 135 C 90 130, 160 130, 160 135 L 155 160 L 95 160 Z"/>
-    <!-- Head -->
-    <circle cx="125" cy="110" r="18" fill="#ffdfba" />
-    <!-- Hair -->
-    <path fill="#21262d" d="M110 100 C 110 90, 140 90, 140 100 L 135 110 L 115 110 Z"/>
-    <!-- Desk Stand -->
-    <rect x="115" y="120" width="20" height="30" fill="#21262d" />
-  </g>
-  
+<text x="70" y="45" class="t code p">#include &lt;iostream&gt;</text>
+<text x="70" y="75" class="t code b">using namespace std;</text>
+
+<text x="70" y="120" class="t code p">class Animal {</text>
+<text x="100" y="150" class="t code b">public:</text>
+<text x="130" y="180" class="t code">virtual void speak(){</text>
+<text x="170" y="210" class="t code b">cout &lt;&lt; "Animal";</text>
+<text x="130" y="240" class="t code">}</text>
+<text x="70" y="270" class="t code p">};</text>
+
+<text x="350" y="120" class="t code p">class Dog : public Animal {</text>
+<text x="380" y="150" class="t code b">void speak() override {</text>
+<text x="420" y="180" class="t code">cout &lt;&lt; "Dog";</text>
+<text x="380" y="210" class="t code">}</text>
+<text x="350" y="240" class="t code p">};</text>
+
+<rect x="760" y="30" width="250" height="55" rx="4"/>
+<text x="795" y="67" class="t title p">POLYMORPHISM</text>
+<text x="790" y="115" class="t small b">One interface, multiple forms.</text>
+
+<rect x="820" y="145" width="120" height="55"/>
+<text x="848" y="178" class="t small">Animal</text>
+<rect x="820" y="235" width="120" height="55"/>
+<text x="860" y="268" class="t small">Dog</text>
+<line x1="880" y1="200" x2="880" y2="235"/>
+<path d="M880 235 l-8 -10 m8 10 l8 -10"/>
+
+<path class="blue" d="M30 110 C80 40,120 40,160 80"/>
+<path class="blue" d="M150 70 l15 10 -10 15"/>
+
+<circle cx="1030" cy="235" r="40"/>
+<path d="M1030 195 L1030 275 M990 235 L1070 235"/>
+<path class="blue" d="M1040 205 A40 40 0 0 1 1065 245"/>
+
+<text x="960" y="70" class="t small p">1010 0011</text>
+<text x="960" y="95" class="t small p">0101 1101</text>
+
+<path d="M650 275 L690 255 L730 270 L770 250 L810 265 L850 240"/>
+<circle cx="650" cy="275" r="3" fill="#8b5cf6"/>
+<circle cx="690" cy="255" r="3" fill="#8b5cf6"/>
+<circle cx="730" cy="270" r="3" fill="#8b5cf6"/>
+<circle cx="770" cy="250" r="3" fill="#8b5cf6"/>
+<circle cx="810" cy="265" r="3" fill="#8b5cf6"/>
+<circle cx="850" cy="240" r="3" fill="#8b5cf6"/>
 </svg>
