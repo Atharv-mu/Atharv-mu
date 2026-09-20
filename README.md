@@ -11,7 +11,7 @@
   </a>
 </p>
 
-## 🚀 About Me
+🚀 About Me
 
 🎓 B.Tech Computer Science Engineering Student at **Medicaps University**
 
