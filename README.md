@@ -3,7 +3,7 @@
 </p>
 
 ---
-<h1 align="center">Hi 👋, I am Atharv Holkar</h1>
+<h1 align="center">Hi 👋, I'm Atharv Holkar</h1>
 
 <p align="center">
   <a href="https://github.com/Atharv-mu">
