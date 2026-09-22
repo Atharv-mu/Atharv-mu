@@ -17,7 +17,7 @@
 
 💻 Passionate about **Full Stack Web Development (MERN Stack)**
 
-🌱 Currently learning **Advanced MERN Stack & Data Structures & Algorithms**
+🌱 Currently learning **MERN Stack & Data Structures & Algorithms**
 
 🚀 Love building real-world web applications and solving problems.
 
