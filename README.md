@@ -66,15 +66,7 @@ Modern developer portfolio with terminal UI.
 ---
 
 ## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-mu&theme=tokyo-night&hide_border=true"
-    alt="Atharv-mu's GitHub Activity Graph"
-  />
-</p>
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-mu" />
 ---
 
 ## 🌐 Connect With Me
