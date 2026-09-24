@@ -99,7 +99,7 @@ Modern developer portfolio with terminal UI.
 
 ## 💡 Quote
 
-> *"Consistency beats everything. Keep building. Keep learning."* 🚀
+> *"Consistency beats motivation. Keep building. Keep learning."* 🚀
 
 ---
 
