@@ -105,6 +105,8 @@ const developer = {
 ---
 
 ## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Activity</h2>
+
 <div align="center">
 
 [![Atharv's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv-mu&theme=tokyo-night&hide_border=true)](https://github.com/Atharv-mu)
