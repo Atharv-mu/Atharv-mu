@@ -103,16 +103,56 @@ const developer = {
 * 🚀 Production-ready MERN applications
 
 ---
-
-## 📊 GitHub Stats
+## Github Activity
 <h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
 
-[![Atharv's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv-mu&theme=tokyo-night&hide_border=true)](https://github.com/Atharv-mu)
+<table>
+<tr>
+<td align="center" width="150">
+<br>
+💻
+<br><br>
+<b>Commits</b>
+<br>
+<sub>Code Contributions</sub>
+<br><br>
+</td>
+
+<td align="center" width="150">
+<br>
+🔀
+<br><br>
+<b>Pull Requests</b>
+<br>
+<sub>PR Contributions</sub>
+<br><br>
+</td>
+
+<td align="center" width="150">
+<br>
+🐛
+<br><br>
+<b>Issues</b>
+<br>
+<sub>Issue Contributions</sub>
+<br><br>
+</td>
+
+<td align="center" width="150">
+<br>
+👀
+<br><br>
+<b>Reviews</b>
+<br>
+<sub>Code Reviews</sub>
+<br><br>
+</td>
+</tr>
+</table>
 
 </div>
-   
 
 ## 🔥 GitHub Streak
 
