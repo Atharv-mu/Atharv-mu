@@ -108,12 +108,23 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atharv-mu&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<a href="https://github.com/Atharv-mu">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Atharv-mu&show_icons=true&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Atharv's GitHub Stats"
+  />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-mu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<a href="https://github.com/Atharv-mu">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-mu&layout=compact&theme=tokyonight&hide_border=true"
+    width="41%"
+    alt="Atharv's Top Languages"
+  />
+</a>
 
 </div>
-
 ---
 
 ## 🔥 GitHub Streak
