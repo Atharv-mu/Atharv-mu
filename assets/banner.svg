@@ -1,1 +1,692 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400"
+     xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <!-- Monitor -->
+    <linearGradient id="screen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+
+    <!-- Shirt -->
+    <linearGradient id="shirt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .code {
+        font-family: monospace;
+        font-size: 14px;
+      }
+
+      .title {
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+      }
+
+      .small {
+        font-family: Arial, sans-serif;
+      }
+    </style>
+
+  </defs>
+
+
+  <!-- ================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================================= -->
+
+  <rect width="1200" height="400" fill="url(#bg)"/>
+
+
+  <!-- Background glowing circles -->
+
+  <circle cx="130"
+          cy="80"
+          r="100"
+          fill="#2563eb"
+          opacity="0.10"
+          filter="url(#glow)"/>
+
+  <circle cx="1080"
+          cy="300"
+          r="130"
+          fill="#7c3aed"
+          opacity="0.12"
+          filter="url(#glow)"/>
+
+
+  <!-- ================================================= -->
+  <!-- STARS -->
+  <!-- ================================================= -->
+
+  <g fill="#67e8f9" opacity="0.7">
+
+    <circle cx="70" cy="55" r="2"/>
+    <circle cx="160" cy="310" r="2"/>
+    <circle cx="290" cy="45" r="2"/>
+    <circle cx="390" cy="90" r="2"/>
+    <circle cx="760" cy="45" r="2"/>
+    <circle cx="920" cy="55" r="2"/>
+    <circle cx="1110" cy="100" r="2"/>
+    <circle cx="1160" cy="330" r="2"/>
+    <circle cx="1000" cy="360" r="2"/>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- LEFT SIDE TEXT -->
+  <!-- ================================================= -->
+
+  <text x="65"
+        y="105"
+        fill="#ffffff"
+        font-size="40"
+        class="title">
+    FULL STACK
+  </text>
+
+  <text x="65"
+        y="155"
+        fill="#22d3ee"
+        font-size="50"
+        class="title">
+    MERN DEVELOPER
+  </text>
+
+  <text x="68"
+        y="193"
+        fill="#94a3b8"
+        font-size="18"
+        class="small">
+    Building modern web experiences 🚀
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- CODE DECORATION -->
+  <!-- ================================================= -->
+
+  <g class="code" fill="#64748b" opacity="0.75">
+
+    <text x="68" y="240">
+      &lt;developer&gt;
+    </text>
+
+    <text x="88" y="266">
+      const stack = "MERN";
+    </text>
+
+    <text x="88" y="292">
+      build("something awesome");
+    </text>
+
+    <text x="68" y="318">
+      &lt;/developer&gt;
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- DESK -->
+  <!-- ================================================= -->
+
+  <rect x="625"
+        y="320"
+        width="510"
+        height="17"
+        rx="8"
+        fill="#334155"/>
+
+  <!-- Desk legs -->
+
+  <rect x="690"
+        y="337"
+        width="18"
+        height="45"
+        fill="#1e293b"/>
+
+  <rect x="1060"
+        y="337"
+        width="18"
+        height="45"
+        fill="#1e293b"/>
+
+
+  <!-- ================================================= -->
+  <!-- MONITOR -->
+  <!-- ================================================= -->
+
+  <rect x="790"
+        y="90"
+        width="300"
+        height="195"
+        rx="12"
+        fill="#020617"
+        stroke="#475569"
+        stroke-width="5"/>
+
+
+  <!-- Screen -->
+
+  <rect x="805"
+        y="105"
+        width="270"
+        height="165"
+        rx="6"
+        fill="url(#screen)"
+        opacity="0.15"/>
+
+
+  <!-- Screen glow -->
+
+  <rect x="805"
+        y="105"
+        width="270"
+        height="165"
+        rx="6"
+        fill="none"
+        stroke="#22d3ee"
+        stroke-width="1"
+        opacity="0.5"/>
+
+
+  <!-- ================================================= -->
+  <!-- CODE ON MONITOR -->
+  <!-- ================================================= -->
+
+  <g font-family="monospace"
+     font-size="13">
+
+    <text x="825"
+          y="132"
+          fill="#22d3ee">
+      const developer =
+    </text>
+
+    <text x="825"
+          y="155"
+          fill="#a78bfa">
+      {
+    </text>
+
+    <text x="840"
+          y="178"
+          fill="#f8fafc">
+      role: "MERN",
+    </text>
+
+    <text x="840"
+          y="201"
+          fill="#f8fafc">
+      coffee: true,
+    </text>
+
+    <text x="840"
+          y="224"
+          fill="#f8fafc">
+      bugs: "fixed"
+    </text>
+
+    <text x="825"
+          y="247"
+          fill="#a78bfa">
+      };
+    </text>
+
+    <text x="825"
+          y="260"
+          fill="#22d3ee">
+      npm run build 🚀
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- MONITOR STAND -->
+  <!-- ================================================= -->
+
+  <rect x="905"
+        y="285"
+        width="55"
+        height="30"
+        fill="#475569"/>
+
+  <rect x="875"
+        y="313"
+        width="115"
+        height="8"
+        rx="4"
+        fill="#64748b"/>
+
+
+  <!-- ================================================= -->
+  <!-- PERSON -->
+  <!-- ================================================= -->
+
+  <!-- Neck -->
+
+  <rect x="681"
+        y="195"
+        width="29"
+        height="32"
+        rx="8"
+        fill="#e5a889"/>
+
+
+  <!-- ================================================= -->
+  <!-- HEAD -->
+  <!-- ================================================= -->
+
+  <circle cx="695"
+          cy="164"
+          r="43"
+          fill="#f1b89b"/>
+
+
+  <!-- ================================================= -->
+  <!-- HAIR -->
+  <!-- ================================================= -->
+
+  <path d="
+    M653 160
+    C649 120 670 105 697 106
+    C724 107 741 126 739 151
+    C738 164 733 171 727 177
+    C724 154 711 139 691 136
+    C675 135 663 144 653 160
+    Z"
+    fill="#111827"/>
+
+
+  <!-- Hair highlight -->
+
+  <path d="
+    M665 126
+    C680 113 703 111 720 123"
+    fill="none"
+    stroke="#334155"
+    stroke-width="5"
+    stroke-linecap="round"
+    opacity="0.7"/>
+
+
+  <!-- ================================================= -->
+  <!-- GLASSES / SPECS 🤓 -->
+  <!-- ================================================= -->
+
+  <g fill="none"
+     stroke="#111827"
+     stroke-width="4">
+
+    <!-- Left lens -->
+
+    <rect x="658"
+          y="151"
+          width="32"
+          height="23"
+          rx="7"/>
+
+    <!-- Right lens -->
+
+    <rect x="700"
+          y="151"
+          width="32"
+          height="23"
+          rx="7"/>
+
+    <!-- Bridge -->
+
+    <path d="
+      M690 159
+      Q695 155
+      700 159"/>
+
+    <!-- Left temple -->
+
+    <path d="
+      M658 157
+      L648 154"/>
+
+    <!-- Right temple -->
+
+    <path d="
+      M732 157
+      L741 154"/>
+
+  </g>
+
+
+  <!-- Glass reflection -->
+
+  <path d="
+    M664 157
+    L672 154"
+    stroke="#ffffff"
+    stroke-width="3"
+    stroke-linecap="round"
+    opacity="0.8"/>
+
+  <path d="
+    M706 157
+    L714 154"
+    stroke="#ffffff"
+    stroke-width="3"
+    stroke-linecap="round"
+    opacity="0.8"/>
+
+
+  <!-- ================================================= -->
+  <!-- EYES -->
+  <!-- ================================================= -->
+
+  <circle cx="674"
+          cy="162"
+          r="2.5"
+          fill="#111827"/>
+
+  <circle cx="716"
+          cy="162"
+          r="2.5"
+          fill="#111827"/>
+
+
+  <!-- ================================================= -->
+  <!-- NOSE -->
+  <!-- ================================================= -->
+
+  <path d="
+    M694 164
+    L690 177
+    L697 178"
+    fill="none"
+    stroke="#c0846f"
+    stroke-width="2"/>
+
+
+  <!-- ================================================= -->
+  <!-- SMILE -->
+  <!-- ================================================= -->
+
+  <path d="
+    M684 186
+    Q695 193
+    706 186"
+    fill="none"
+    stroke="#9f5f50"
+    stroke-width="2.5"
+    stroke-linecap="round"/>
+
+
+  <!-- ================================================= -->
+  <!-- BODY / HOODIE -->
+  <!-- ================================================= -->
+
+  <path d="
+    M649 217
+    C620 227
+    600 270
+    608 320
+    L792 320
+    C786 276
+    761 232
+    710 216
+    Z"
+    fill="url(#shirt)"/>
+
+
+  <!-- Hoodie collar -->
+
+  <path d="
+    M673 218
+    Q695 238
+    717 218"
+    fill="none"
+    stroke="#4338ca"
+    stroke-width="8"/>
+
+
+  <!-- Hoodie strings -->
+
+  <line x1="683"
+        y1="228"
+        x2="677"
+        y2="255"
+        stroke="#c4b5fd"
+        stroke-width="3"/>
+
+  <line x1="707"
+        y1="228"
+        x2="713"
+        y2="255"
+        stroke="#c4b5fd"
+        stroke-width="3"/>
+
+
+  <!-- ================================================= -->
+  <!-- ARM -->
+  <!-- ================================================= -->
+
+  <path d="
+    M735 238
+    C772 246
+    807 268
+    840 292
+    L821 316
+    C784 294
+    750 280
+    720 270
+    Z"
+    fill="#f1b89b"/>
+
+
+  <!-- Hand -->
+
+  <circle cx="838"
+          cy="299"
+          r="13"
+          fill="#f1b89b"/>
+
+
+  <!-- ================================================= -->
+  <!-- LAPTOP -->
+  <!-- ================================================= -->
+
+  <path d="
+    M760 304
+    L910 304
+    L940 326
+    L735 326
+    Z"
+    fill="#94a3b8"/>
+
+
+  <path d="
+    M775 298
+    L895 298
+    L910 315
+    L760 315
+    Z"
+    fill="#0f172a"/>
+
+
+  <!-- Laptop glow -->
+
+  <rect x="815"
+        y="302"
+        width="40"
+        height="3"
+        rx="2"
+        fill="#22d3ee"
+        opacity="0.7"/>
+
+
+  <!-- ================================================= -->
+  <!-- COFFEE CUP -->
+  <!-- ================================================= -->
+
+  <rect x="1090"
+        y="279"
+        width="36"
+        height="41"
+        rx="5"
+        fill="#92400e"/>
+
+  <path d="
+    M1126 290
+    C1146 290
+    1146 310
+    1126 310"
+    fill="none"
+    stroke="#92400e"
+    stroke-width="7"/>
+
+
+  <!-- Coffee -->
+
+  <ellipse cx="1108"
+           cy="280"
+           rx="17"
+           ry="5"
+           fill="#451a03"/>
+
+
+  <!-- Steam -->
+
+  <path d="
+    M1095 269
+    C1084 254 1104 249 1094 234"
+
+    fill="none"
+    stroke="#94a3b8"
+    stroke-width="3"
+    opacity="0.5"/>
+
+  <path d="
+    M1112 269
+    C1101 254 1121 249 1111 234"
+
+    fill="none"
+    stroke="#94a3b8"
+    stroke-width="3"
+    opacity="0.5"/>
+
+
+  <!-- ================================================= -->
+  <!-- FLOATING TECH BADGES -->
+  <!-- ================================================= -->
+
+  <!-- React -->
+
+  <rect x="925"
+        y="45"
+        width="78"
+        height="29"
+        rx="14"
+        fill="#0ea5e9"
+        opacity="0.95"/>
+
+  <text x="945"
+        y="65"
+        fill="#ffffff"
+        font-family="Arial"
+        font-size="13"
+        font-weight="bold">
+    React
+  </text>
+
+
+  <!-- Node -->
+
+  <rect x="1015"
+        y="82"
+        width="88"
+        height="29"
+        rx="14"
+        fill="#22c55e"
+        opacity="0.95"/>
+
+  <text x="1032"
+        y="102"
+        fill="#ffffff"
+        font-family="Arial"
+        font-size="13"
+        font-weight="bold">
+    Node.js
+  </text>
+
+
+  <!-- MongoDB -->
+
+  <rect x="1070"
+        y="125"
+        width="95"
+        height="29"
+        rx="14"
+        fill="#10b981"
+        opacity="0.95"/>
+
+  <text x="1083"
+        y="145"
+        fill="#ffffff"
+        font-family="Arial"
+        font-size="13"
+        font-weight="bold">
+    MongoDB
+  </text>
+
+
+  <!-- Express -->
+
+  <rect x="1030"
+        y="165"
+        width="90"
+        height="29"
+        rx="14"
+        fill="#64748b"
+        opacity="0.95"/>
+
+  <text x="1046"
+        y="185"
+        fill="#ffffff"
+        font-family="Arial"
+        font-size="13"
+        font-weight="bold">
+    Express
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- BOTTOM TAGLINE -->
+  <!-- ================================================= -->
+
+  <text x="650"
+        y="370"
+        fill="#64748b"
+        font-family="monospace"
+        font-size="13">
+    &lt;code /&gt; • &lt;create /&gt; • &lt;deploy /&gt;
+  </text>
+
+</svg>
