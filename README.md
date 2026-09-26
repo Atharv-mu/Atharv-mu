@@ -103,15 +103,6 @@ const developer = {
 * 🚀 Production-ready MERN applications
 
 ---
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Atharv-mu&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
