@@ -678,13 +678,13 @@
   <!-- BOTTOM TAGLINE -->
   <!-- ================================================= -->
 
-  <text x="650"
-        y="370"
-        fill="#64748b"
-        font-family="monospace"
-        font-size="13">
-        font-weight="bold"
-       &lt;code /&gt; • &lt;create /&gt; • &lt;deploy /&gt;
-  </text>
+<text x="650"
+      y="370"
+      fill="#64748b"
+      font-family="monospace"
+      font-size="13"
+      font-weight="bold">
+  &lt;code /&gt; • &lt;create /&gt; • &lt;deploy /&gt;
+</text>
 
 </svg>
