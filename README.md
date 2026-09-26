@@ -2,9 +2,9 @@
 
 <img src="assets/banner.svg" width="100%" alt="Atharv Holkar - Full Stack MERN Developer"/>
 
-# 👋 Hey, I'm Atharv Holkar
+# 👋 Hey, I'm Atharv Holkar !
 
-### 💻 Full-Stack MERN Developer | 🚀 Web Developer | 🧠 Problem Solver
+## 💻 Full-Stack Developer (MERN) | Creative Thinker | Problem Solver
 
 <p>
   <a href="https://github.com/Atharv-mu">
