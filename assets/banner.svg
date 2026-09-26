@@ -651,24 +651,26 @@
   </text>
 
 
-  <!-- Express -->
+ <!-- Express -->
 
-  <rect x="1093"
-        y="182"
-        width="93"
-        height="29"
-        rx="16"
-        fill="#64748b"
-        opacity="0.95"/>
+<rect x="1093"
+      y="182"
+      width="93"
+      height="29"
+      rx="16"
+      fill="#64748b"
+      opacity="0.95"/>
 
-  <text x="1045"
-        y="196"
-        fill="#ffffff"
-        font-family="Arial"
-        font-size="13"
-        font-weight="bold">
-     Express js
-  </text>
+<text x="1139.5"
+      y="196.5"
+      fill="#ffffff"
+      font-family="Arial"
+      font-size="13"
+      font-weight="bold"
+      text-anchor="middle"
+      dominant-baseline="middle">
+  Express js
+</text>
 
 
   <!-- ================================================= -->
