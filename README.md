@@ -45,7 +45,7 @@ const developer = {
 
     database: [
         "MongoDB",
-        "Mongoose"
+        "SQL"
     ],
 
     tools: [
