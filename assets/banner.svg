@@ -254,12 +254,6 @@
       };
     </text>
 
-    <text x="825"
-          y="260"
-          fill="#22d3ee">
-      npm run build 🚀
-    </text>
-
   </g>
 
 
@@ -668,7 +662,7 @@
         opacity="0.95"/>
 
   <text x="1046"
-        y="185"
+        y="187"
         fill="#ffffff"
         font-family="Arial"
         font-size="13"
@@ -686,7 +680,8 @@
         fill="#64748b"
         font-family="monospace"
         font-size="13">
-    &lt;code /&gt; • &lt;create /&gt; • &lt;deploy /&gt;
+        font-weight="bold"
+       &lt;code /&gt; • &lt;create /&gt; • &lt;deploy /&gt;
   </text>
 
 </svg>
