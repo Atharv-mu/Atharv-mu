@@ -20,6 +20,7 @@
 
 </div>
 
+
 ## 🧑‍💻 About Me
 
 Hi, I'm **Atharv Holkar**, a passionate **Full-Stack MERN Developer** from India 🇮🇳. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
