@@ -1,5 +1,5 @@
-div align="center">
 
+div align="center">
 <img src="assets/banner.svg" width="100%" alt="Atharv Holkar - Full Stack MERN Developer"/>
 
 # 👋 Hey, I'm Atharv Holkar
