@@ -1,71 +1,16 @@
-<div align="center">
-
-<img src="assets/banner.svg" width="100%" alt="Atharv Holkar - Full Stack MERN Developer"/>
-
-# 👋 Hey, I'm Atharv Holkar 
-
-## 💻 Full Stack MERN Developer | Decision Maker | Problem Solver
-
-<p>
-  <a href="https://github.com/Atharv-mu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/atharvholkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:atharvholkar41@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
-
 ## 🧑‍💻 About Me
 
-```javascript
-const developer = {
-    name: "Atharv Holkar",
-    role: "Full-Stack MERN Developer",
-    location: "India 🇮🇳",
+Hi, I'm **Atharv Holkar**, a passionate **Full-Stack MERN Developer** from India 🇮🇳. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
 
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React.js",
-        "Tailwind CSS"
-    ],
+I work primarily with **JavaScript, React.js, Node.js, Express.js, and MongoDB**, and I enjoy working across both frontend and backend development. From designing clean user interfaces to building RESTful APIs and managing databases, I like understanding the complete development process.
 
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
+I'm a **problem solver and decision maker** who believes that good development is not just about writing code, but also about choosing the right approach, understanding the problem, and creating solutions that are simple, efficient, and maintainable.
 
-    database: [
-        "MongoDB",
-        "SQL"
-    ],
+Currently, I'm expanding my knowledge of **Next.js, TypeScript, and System Design** while working on projects that challenge me to learn and improve.
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman"
-    ],
+Outside of writing code, I enjoy exploring new technologies, experimenting with ideas, and continuously improving my development skills.
 
-    currentlyLearning: [
-        "Next.js",
-        "TypeScript",
-        "System Design"
-    ],
-
-    motto: "Build. Learn. Improve. Repeat. 🚀"
-};
-```
-
----
+> 🚀 **Build with purpose. Learn continuously. Improve every day.**
 
 ## 🚀 Tech Stack
 
