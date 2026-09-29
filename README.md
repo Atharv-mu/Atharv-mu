@@ -1,3 +1,25 @@
+div align="center">
+
+<img src="assets/banner.svg" width="100%" alt="Atharv Holkar - Full Stack MERN Developer"/>
+
+# 👋 Hey, I'm Atharv Holkar
+
+## 💻 Full Stack MERN Developer | Decision Maker | Problem Solver
+
+<p>
+<a href="https://github.com/Atharv-mu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/atharvholkar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:atharvholkar41@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+</div>
+
 ## 🧑‍💻 About Me
 
 Hi, I'm **Atharv Holkar**, a passionate **Full-Stack MERN Developer** from India 🇮🇳. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
