@@ -28,7 +28,7 @@ I work primarily with **JavaScript, React.js, Node.js, Express.js, and MongoDB**
 
 I'm a **problem solver and decision maker** who believes that good development is not just about writing code, but also about choosing the right approach, understanding the problem, and creating solutions that are simple, efficient, and maintainable.
 
-Currently, I'm expanding my knowledge of **Next.js, TypeScript, and System Design** while working on projects that challenge me to learn and improve.
+Currently, I'm expanding my knowledge of **Aptitude, Data Structures and System Design** while working on projects that challenge me to learn and improve.
 
 Outside of writing code, I enjoy exploring new technologies, experimenting with ideas, and continuously improving my development skills.
 
@@ -84,9 +84,9 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 ## 🌱 Currently Learning
 
 ```text
-Next.js          ███████████████░░░░░  75%
-TypeScript       ███████████████░░░░░  75%
-System Design    ███████████░░░░░░░░░  55%
+System Design    ███████████████░░░░░  75%
+Aptitude         ███████████████░░░░░  75%
+Data Structures  ███████████░░░░░░░░░  55%
 ```
 
 ---
