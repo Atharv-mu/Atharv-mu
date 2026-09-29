@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Atharv Holkar
 
-## 💻 Full Stack MERN Development | Decision Making | Problem Solving
+## 💻 Full Stack MERN Developer | Decision Maker | Problem Solver
 
 <p>
 <a href="https://github.com/Atharv-mu">
