@@ -2,625 +2,252 @@
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-
-    <!-- Background -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="55%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#111827"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B1A"/>
+      <stop offset="52%" stop-color="#101936"/>
+      <stop offset="100%" stop-color="#1E1245"/>
     </linearGradient>
 
-    <!-- Screen -->
-    <linearGradient id="screen" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#6366f1"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
     </linearGradient>
 
-    <!-- Shirt -->
-    <linearGradient id="shirt" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#4338ca"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
+    <linearGradient id="hoodie" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4338CA"/>
+      <stop offset="100%" stop-color="#9333EA"/>
     </linearGradient>
 
-    <!-- Subtle glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="12" stdDeviation="14"
+                    flood-color="#000000" flood-opacity=".35"/>
     </filter>
 
     <style>
-      .title {
-        font-family: Arial, Helvetica, sans-serif;
-        font-weight: 700;
+      .sans {
+        font-family: Inter, Arial, Helvetica, sans-serif;
       }
 
-      .subtitle {
-        font-family: Arial, Helvetica, sans-serif;
-        font-weight: 400;
+      .mono {
+        font-family: "JetBrains Mono", "Courier New", monospace;
       }
 
-      .code {
-        font-family: "Courier New", monospace;
+      .muted {
+        fill: #A5B4FC;
       }
 
-      .badge {
-        font-family: Arial, Helvetica, sans-serif;
-        font-weight: 600;
+      .white {
+        fill: #F8FAFC;
       }
     </style>
-
   </defs>
 
+  <!-- Background -->
+  <rect width="1200" height="400" rx="26" fill="url(#background)"/>
 
-  <!-- ================================================= -->
-  <!-- BACKGROUND -->
-  <!-- ================================================= -->
+  <circle cx="110" cy="20" r="145"
+          fill="#2563EB" opacity=".22" filter="url(#blur)"/>
 
-  <rect width="1200" height="400" fill="url(#bg)"/>
+  <circle cx="1090" cy="370" r="170"
+          fill="#9333EA" opacity=".25" filter="url(#blur)"/>
 
-  <!-- Background glow -->
-  <circle cx="110" cy="80" r="110"
-          fill="#2563eb"
-          opacity="0.09"
-          filter="url(#glow)"/>
-
-  <circle cx="1080" cy="300" r="140"
-          fill="#7c3aed"
-          opacity="0.10"
-          filter="url(#glow)"/>
-
-
-  <!-- ================================================= -->
-  <!-- DECORATIVE DOTS -->
-  <!-- ================================================= -->
-
-  <g fill="#67e8f9" opacity="0.65">
-
-    <circle cx="65" cy="55" r="2"/>
-    <circle cx="170" cy="320" r="2"/>
-    <circle cx="300" cy="45" r="2"/>
-    <circle cx="405" cy="82" r="2"/>
-    <circle cx="755" cy="45" r="2"/>
-    <circle cx="915" cy="55" r="2"/>
-    <circle cx="1110" cy="95" r="2"/>
-    <circle cx="1160" cy="335" r="2"/>
-    <circle cx="1010" cy="360" r="2"/>
-
+  <!-- Decorative grid -->
+  <g opacity=".12" stroke="#94A3B8">
+    <path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200"/>
+    <path d="M80 0V400M180 0V400M280 0V400M380 0V400
+             M480 0V400M580 0V400M680 0V400M780 0V400
+             M880 0V400M980 0V400M1080 0V400"/>
   </g>
 
-
-  <!-- ================================================= -->
-  <!-- LEFT CONTENT -->
-  <!-- ================================================= -->
-
-  <text x="65"
-        y="92"
-        fill="#94a3b8"
-        font-size="17"
-        class="subtitle">
-    B.TECH • COMPUTER SCIENCE &amp; ENGINEERING
+  <!-- Left text section -->
+  <text x="66" y="75" class="sans muted"
+        font-size="14" font-weight="700" letter-spacing="2">
+    B.TECH • COMPUTER SCIENCE
   </text>
 
+  <rect x="66" y="96" width="86" height="5" rx="3" fill="url(#accent)"/>
 
-  <text x="65"
-        y="145"
-        fill="#ffffff"
-        font-size="42"
-        class="title">
+  <text x="66" y="154" class="sans white"
+        font-size="46" font-weight="800">
     3RD YEAR
   </text>
 
-
-  <text x="65"
-        y="195"
-        fill="#22d3ee"
-        font-size="48"
-        class="title">
+  <text x="66" y="207" class="sans"
+        fill="#67E8F9" font-size="48" font-weight="800">
     CSE STUDENT
   </text>
 
-
-  <text x="68"
-        y="230"
-        fill="#cbd5e1"
-        font-size="18"
-        class="subtitle">
-    Aspiring Full-Stack Developer • MERN Stack
+  <text x="68" y="240" class="sans"
+        fill="#CBD5E1" font-size="17">
+    Aspiring Full-Stack Developer
   </text>
 
+  <!-- Skill pills -->
+  <g class="sans" font-size="12" font-weight="700">
+    <rect x="68" y="266" width="78" height="28" rx="14"
+          fill="#172554" stroke="#22D3EE" stroke-opacity=".45"/>
+    <text x="107" y="284" text-anchor="middle" fill="#67E8F9">MERN</text>
 
-  <!-- ================================================= -->
-  <!-- CODE DECORATION -->
-  <!-- ================================================= -->
+    <rect x="154" y="266" width="92" height="28" rx="14"
+          fill="#1E1B4B" stroke="#A78BFA" stroke-opacity=".5"/>
+    <text x="200" y="284" text-anchor="middle" fill="#C4B5FD">BUILDING</text>
 
-  <g class="code"
-     font-size="14"
-     fill="#64748b"
-     opacity="0.8">
-
-    <text x="68" y="270">
-      const student = {
-    </text>
-
-    <text x="88" y="294">
-      skills: "MERN Stack",
-    </text>
-
-    <text x="88" y="318">
-      focus: "Learn • Build • Improve"
-    </text>
-
-    <text x="68" y="342">
-      };
-    </text>
-
+    <rect x="254" y="266" width="88" height="28" rx="14"
+          fill="#172554" stroke="#22D3EE" stroke-opacity=".45"/>
+    <text x="298" y="284" text-anchor="middle" fill="#67E8F9">LEARNING</text>
   </g>
 
+  <!-- Code snippet -->
+  <g class="mono" font-size="13">
+    <text x="68" y="333" fill="#64748B">
+      <tspan fill="#22D3EE">const</tspan>
+      developer = <tspan fill="#C4B5FD">{ ... }</tspan>
+    </text>
+  </g>
 
-  <!-- ================================================= -->
-  <!-- DESK -->
-  <!-- ================================================= -->
+  <!-- Main glass panel -->
+  <rect x="535" y="42" width="590" height="310" rx="28"
+        fill="#FFFFFF" fill-opacity=".07"
+        stroke="#FFFFFF" stroke-opacity=".16"
+        filter="url(#shadow)"/>
 
-  <rect x="625"
-        y="320"
-        width="510"
-        height="17"
-        rx="8"
-        fill="#334155"/>
+  <!-- Monitor -->
+  <rect x="730" y="82" width="300" height="190" rx="16"
+        fill="#050816" stroke="#64748B" stroke-opacity=".65"
+        stroke-width="3"/>
 
-  <rect x="690"
-        y="337"
-        width="18"
-        height="45"
-        fill="#1e293b"/>
+  <!-- Browser header -->
+  <rect x="730" y="82" width="300" height="30" rx="16"
+        fill="#111827"/>
 
-  <rect x="1060"
-        y="337"
-        width="18"
-        height="45"
-        fill="#1e293b"/>
+  <circle cx="750" cy="97" r="4" fill="#FB7185"/>
+  <circle cx="764" cy="97" r="4" fill="#FBBF24"/>
+  <circle cx="778" cy="97" r="4" fill="#34D399"/>
 
-
-  <!-- ================================================= -->
-  <!-- MONITOR -->
-  <!-- ================================================= -->
-
-  <rect x="790"
-        y="90"
-        width="300"
-        height="195"
-        rx="12"
-        fill="#020617"
-        stroke="#475569"
-        stroke-width="5"/>
+  <rect x="805" y="91" width="150" height="12" rx="6"
+        fill="#1E293B"/>
 
   <!-- Screen -->
-  <rect x="805"
-        y="105"
-        width="270"
-        height="165"
-        rx="6"
-        fill="url(#screen)"
-        opacity="0.14"/>
+  <rect x="748" y="125" width="264" height="128" rx="8"
+        fill="url(#screen)" opacity=".78"/>
 
-  <rect x="805"
-        y="105"
-        width="270"
-        height="165"
-        rx="6"
-        fill="none"
-        stroke="#22d3ee"
-        stroke-width="1"
-        opacity="0.5"/>
-
-
-  <!-- ================================================= -->
-  <!-- CODE ON MONITOR -->
-  <!-- ================================================= -->
-
-  <g font-family="Courier New, monospace"
-     font-size="12.5">
-
-    <text x="825"
-          y="132"
-          fill="#22d3ee">
-      const developer =
+  <g class="mono" font-size="12">
+    <text x="765" y="149" fill="#67E8F9">const developer =</text>
+    <text x="765" y="170" fill="#C4B5FD">{</text>
+    <text x="780" y="191" fill="#F8FAFC">
+      year: <tspan fill="#86EFAC">"3rd Year"</tspan>,
     </text>
-
-    <text x="825"
-          y="155"
-          fill="#a78bfa">
-      {
+    <text x="780" y="212" fill="#F8FAFC">
+      stack: <tspan fill="#86EFAC">"MERN"</tspan>,
     </text>
-
-    <text x="840"
-          y="178"
-          fill="#f8fafc">
-      year: "3rd Year",
+    <text x="780" y="233" fill="#F8FAFC">
+      mindset: <tspan fill="#86EFAC">"Build"</tspan>
     </text>
-
-    <text x="840"
-          y="201"
-          fill="#f8fafc">
-      stack: "MERN",
-    </text>
-
-    <text x="840"
-          y="224"
-          fill="#f8fafc">
-      mindset: "Build &amp; Learn"
-    </text>
-
-    <text x="825"
-          y="247"
-          fill="#a78bfa">
-      };
-    </text>
-
+    <text x="765" y="248" fill="#C4B5FD">};</text>
   </g>
 
-
-  <!-- ================================================= -->
-  <!-- MONITOR STAND -->
-  <!-- ================================================= -->
-
-  <rect x="905"
-        y="285"
-        width="55"
-        height="30"
+  <!-- Monitor stand -->
+  <rect x="850" y="272" width="58" height="22" rx="4"
         fill="#475569"/>
 
-  <rect x="875"
-        y="313"
-        width="115"
-        height="8"
-        rx="4"
-        fill="#64748b"/>
+  <rect x="815" y="293" width="128" height="8" rx="4"
+        fill="#64748B"/>
 
+  <!-- Person -->
+  <rect x="622" y="184" width="28" height="30" rx="8"
+        fill="#E7A98D"/>
 
-  <!-- ================================================= -->
-  <!-- PERSON -->
-  <!-- ================================================= -->
-
-  <!-- Neck -->
-  <rect x="681"
-        y="195"
-        width="29"
-        height="32"
-        rx="8"
-        fill="#e5a889"/>
-
-
-  <!-- Head -->
-  <circle cx="695"
-          cy="164"
-          r="43"
-          fill="#f1b89b"/>
-
+  <circle cx="636" cy="154" r="40" fill="#F1B89B"/>
 
   <!-- Hair -->
-  <path d="
-    M653 160
-    C649 120 670 105 697 106
-    C724 107 741 126 739 151
-    C738 164 733 171 727 177
-    C724 154 711 139 691 136
-    C675 135 663 144 653 160
-    Z"
-    fill="#111827"/>
-
-
-  <!-- Hair highlight -->
-  <path d="
-    M665 126
-    C680 113 703 111 720 123"
-    fill="none"
-    stroke="#334155"
-    stroke-width="5"
-    stroke-linecap="round"
-    opacity="0.7"/>
-
+  <path d="M597 153C595 116 614 96 640 98
+           C671 99 687 119 679 153
+           C671 132 655 123 638 123
+           C621 123 608 135 597 153Z"
+        fill="#0F172A"/>
 
   <!-- Glasses -->
-  <g fill="none"
-     stroke="#111827"
-     stroke-width="4">
-
-    <rect x="658"
-          y="151"
-          width="32"
-          height="23"
-          rx="7"/>
-
-    <rect x="700"
-          y="151"
-          width="32"
-          height="23"
-          rx="7"/>
-
-    <path d="M690 159 Q695 155 700 159"/>
-
-    <path d="M658 157 L648 154"/>
-
-    <path d="M732 157 L741 154"/>
-
+  <g fill="none" stroke="#111827" stroke-width="4">
+    <rect x="601" y="143" width="30" height="22" rx="7"/>
+    <rect x="641" y="143" width="30" height="22" rx="7"/>
+    <path d="M631 151Q636 147 641 151"/>
   </g>
 
+  <circle cx="616" cy="154" r="2.5" fill="#111827"/>
+  <circle cx="656" cy="154" r="2.5" fill="#111827"/>
 
-  <!-- Glass reflection -->
-  <path d="M664 157 L672 154"
-        stroke="#ffffff"
-        stroke-width="3"
-        stroke-linecap="round"
-        opacity="0.8"/>
+  <!-- Hoodie -->
+  <path d="M600 211C568 222 551 263 556 318
+           H742C736 269 713 225 650 211Z"
+        fill="url(#hoodie)"/>
 
-  <path d="M706 157 L714 154"
-        stroke="#ffffff"
-        stroke-width="3"
-        stroke-linecap="round"
-        opacity="0.8"/>
+  <path d="M620 213Q636 232 652 213"
+        fill="none" stroke="#A78BFA" stroke-width="7"/>
 
+  <line x1="628" y1="225" x2="623" y2="253"
+        stroke="#DDD6FE" stroke-width="3"/>
+  <line x1="645" y1="225" x2="650" y2="253"
+        stroke="#DDD6FE" stroke-width="3"/>
 
-  <!-- Eyes -->
-  <circle cx="674"
-          cy="162"
-          r="2.5"
-          fill="#111827"/>
+  <!-- Arm -->
+  <path d="M676 231C723 242 752 264 789 290
+           L773 315C731 292 703 278 663 267Z"
+        fill="#F1B89B"/>
 
-  <circle cx="716"
-          cy="162"
-          r="2.5"
-          fill="#111827"/>
+  <circle cx="787" cy="300" r="12" fill="#F1B89B"/>
 
+  <!-- Laptop -->
+  <path d="M714 293H858L887 321H682Z"
+        fill="#94A3B8"/>
 
-  <!-- Nose -->
-  <path d="
-    M694 164
-    L690 177
-    L697 178"
-    fill="none"
-    stroke="#c0846f"
-    stroke-width="2"/>
+  <path d="M727 287H842L858 308H713Z"
+        fill="#0F172A"/>
 
+  <rect x="774" y="291" width="38" height="3" rx="2"
+        fill="#22D3EE"/>
 
-  <!-- Smile -->
-  <path d="
-    M684 186
-    Q695 193
-    706 186"
-    fill="none"
-    stroke="#9f5f50"
-    stroke-width="2.5"
-    stroke-linecap="round"/>
+  <!-- Tech badges -->
+  <g class="sans" font-size="12" font-weight="700">
+    <rect x="955" y="48" width="92" height="28" rx="14"
+          fill="#0891B2"/>
+    <text x="1001" y="66" text-anchor="middle" fill="white">React.js</text>
 
+    <rect x="965" y="82" width="92" height="28" rx="14"
+          fill="#16A34A"/>
+    <text x="1011" y="100" text-anchor="middle" fill="white">Node.js</text>
 
-  <!-- ================================================= -->
-  <!-- HOODIE -->
-  <!-- ================================================= -->
+    <rect x="965" y="116" width="108" height="28" rx="14"
+          fill="#059669"/>
+    <text x="1019" y="134" text-anchor="middle" fill="white">MongoDB</text>
 
-  <path d="
-    M649 217
-    C620 227 600 270 608 320
-    L792 320
-    C786 276 761 232 710 216
-    Z"
-    fill="url(#shirt)"/>
+    <rect x="965" y="150" width="108" height="28" rx="14"
+          fill="#475569"/>
+    <text x="1019" y="168" text-anchor="middle" fill="white">Express.js</text>
+  </g>
 
+  <!-- Coffee -->
+  <rect x="1038" y="278" width="34" height="38"
+        rx="5" fill="#92400E"/>
 
-  <!-- Hoodie collar -->
-  <path d="
-    M673 218
-    Q695 238 717 218"
-    fill="none"
-    stroke="#4338ca"
-    stroke-width="8"/>
+  <path d="M1072 287C1092 287 1092 306 1072 306"
+        fill="none" stroke="#92400E" stroke-width="7"/>
 
+  <ellipse cx="1055" cy="278" rx="16" ry="5"
+           fill="#451A03"/>
 
-  <!-- Hoodie strings -->
-  <line x1="683"
-        y1="228"
-        x2="677"
-        y2="255"
-        stroke="#c4b5fd"
-        stroke-width="3"/>
-
-  <line x1="707"
-        y1="228"
-        x2="713"
-        y2="255"
-        stroke="#c4b5fd"
-        stroke-width="3"/>
-
-
-  <!-- ================================================= -->
-  <!-- ARM -->
-  <!-- ================================================= -->
-
-  <path d="
-    M735 238
-    C772 246 807 268 840 292
-    L821 316
-    C784 294 750 280 720 270
-    Z"
-    fill="#f1b89b"/>
-
-  <circle cx="838"
-          cy="299"
-          r="13"
-          fill="#f1b89b"/>
-
-
-  <!-- ================================================= -->
-  <!-- LAPTOP -->
-  <!-- ================================================= -->
-
-  <path d="
-    M760 304
-    L910 304
-    L940 326
-    L735 326
-    Z"
-    fill="#94a3b8"/>
-
-  <path d="
-    M775 298
-    L895 298
-    L910 315
-    L760 315
-    Z"
-    fill="#0f172a"/>
-
-  <rect x="815"
-        y="302"
-        width="40"
-        height="3"
-        rx="2"
-        fill="#22d3ee"
-        opacity="0.7"/>
-
-
-  <!-- ================================================= -->
-  <!-- COFFEE -->
-  <!-- ================================================= -->
-
-  <rect x="1090"
-        y="279"
-        width="36"
-        height="41"
-        rx="5"
-        fill="#92400e"/>
-
-  <path d="
-    M1126 290
-    C1146 290 1146 310 1126 310"
-    fill="none"
-    stroke="#92400e"
-    stroke-width="7"/>
-
-  <ellipse cx="1108"
-           cy="280"
-           rx="17"
-           ry="5"
-           fill="#451a03"/>
-
-
-  <!-- Steam -->
-  <path d="
-    M1095 269
-    C1084 254 1104 249 1094 234"
-    fill="none"
-    stroke="#94a3b8"
-    stroke-width="3"
-    opacity="0.5"/>
-
-  <path d="
-    M1112 269
-    C1101 254 1121 249 1111 234"
-    fill="none"
-    stroke="#94a3b8"
-    stroke-width="3"
-    opacity="0.5"/>
-
-
-  <!-- ================================================= -->
-  <!-- TECH BADGES -->
-  <!-- ================================================= -->
-
-  <!-- React -->
-  <rect x="925"
-        y="44.5"
-        width="78"
-        height="29"
-        rx="14"
-        fill="#0ea5e9"
-        opacity="0.95"/>
-
-  <text x="964"
-        y="59"
-        fill="#ffffff"
-        font-family="Arial"
-        font-size="13"
-        font-weight="bold"
-        text-anchor="middle"
-        dominant-baseline="middle">
-    React.js
-  </text>
-
-
-  <!-- Node -->
-  <rect x="1015"
-        y="82"
-        width="88"
-        height="29"
-        rx="14"
-        fill="#22c55e"
-        opacity="0.95"/>
-
-  <text x="1059"
-        y="102"
-        fill="#ffffff"
-        font-family="Arial"
-        font-size="13"
-        font-weight="bold"
+  <!-- Footer -->
+  <text x="850" y="337" class="mono"
+        fill="#94A3B8" font-size="13"
         text-anchor="middle">
-    Node.js
-  </text>
-
-
-  <!-- MongoDB -->
-  <rect x="1070"
-        y="125"
-        width="95"
-        height="29"
-        rx="14"
-        fill="#10b981"
-        opacity="0.95"/>
-
-  <text x="1117.5"
-        y="145"
-        fill="#ffffff"
-        font-family="Arial"
-        font-size="13"
-        font-weight="bold"
-        text-anchor="middle">
-    MongoDB
-  </text>
-
-
-  <!-- Express -->
-  <rect x="1093"
-        y="182"
-        width="93"
-        height="29"
-        rx="16"
-        fill="#64748b"
-        opacity="0.95"/>
-
-  <text x="1139.5"
-        y="196.5"
-        fill="#ffffff"
-        font-family="Arial"
-        font-size="13"
-        font-weight="bold"
-        text-anchor="middle"
-        dominant-baseline="middle">
-    Express.js
-  </text>
-
-
-  <!-- ================================================= -->
-  <!-- BOTTOM TAGLINE -->
-  <!-- ================================================= -->
-
-  <text x="650"
-        y="370"
-        fill="#64748b"
-        font-family="Courier New, monospace"
-        font-size="13"
-        font-weight="bold">
     &lt;learn /&gt; • &lt;build /&gt; • &lt;grow /&gt;
   </text>
 
