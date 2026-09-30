@@ -62,14 +62,15 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 ## 🔥 What I Build
 
-* 🌐 Full-stack web applications
-* ⚛️ Modern React applications
-* 🔐 Authentication & authorization systems
-* 🔌 RESTful APIs
-* 🗄️ MongoDB-powered applications
-* 📱 Responsive web interfaces
-* ⚡ Scalable backend systems
-* 🚀 Production-ready MERN applications
+*  Frontend applications 
+*  Full-stack web applications
+*  Modern React applications
+*  Authentication & authorization systems
+*  RESTful APIs
+*  MongoDB-powered applications
+*  Responsive web interfaces
+*  Scalable backend systems
+*  Production-ready MERN applications
 
 ---
 
