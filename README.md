@@ -94,7 +94,7 @@ Data Structures  ███████████░░░░░░░░░  5
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let us Connect
 
 <div align="center">
 
