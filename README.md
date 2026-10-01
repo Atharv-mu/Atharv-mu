@@ -91,19 +91,19 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 </div>
 
 ---
-
+   
 ## Currently Learning
 
 <div align="center">
 
-## Skills I am Improving
 
- 
+<pre style="display: inline-block; text-align: left;">
 System Design    ███████████████░░░░░  75%
 Aptitude         ███████████████░░░░░  75%
 Data Structures  ███████████░░░░░░░░░  55%
+</pre>
 
-<br>
+</div>
 
 ## Let us Collaborate
 
