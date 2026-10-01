@@ -6,39 +6,30 @@
 
 ## 💻 Full Stack MERN Developer | Problem Solver
 
+
+
 ## About Me
+Hi, I am **Atharv Holkar**, a passionate **Full-Stack MERN Developer** from India 🇮🇳. I enjoy building modern, responsive, and scalable web applications that solve real-world problems. I work primarily with **JavaScript, React.js, Node.js, Express.js, and MongoDB**, and I enjoy working across both frontend and backend development. From designing clean user interfaces to building RESTful APIs and managing databases, I like understanding the complete development process. I am a **problem solver and decision maker** who believes that good development is not just about writing code, but also about choosing the right approach, understanding the problem, and creating solutions that are simple, efficient, and maintainable.
 
-Hi, I am **Atharv Holkar**, a passionate **Full-Stack MERN Developer** from India 🇮🇳. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
+Currently, I am expanding my knowledge of **Aptitude, Data Structures and System Design** while working on projects that challenge me to learn and improve. Outside of writing code, I enjoy exploring new technologies, experimenting with ideas, and continuously improving my development skills.
 
-I work primarily with **JavaScript, React.js, Node.js, Express.js, and MongoDB**, and I enjoy working across both frontend and backend development. From designing clean user interfaces to building RESTful APIs and managing databases, I like understanding the complete development process.
-
-I am a **problem solver and decision maker** who believes that good development is not just about writing code, but also about choosing the right approach, understanding the problem, and creating solutions that are simple, efficient, and maintainable.
-
-Currently, I am expanding my knowledge of **Aptitude, Data Structures and System Design** while working on projects that challenge me to learn and improve.
-
-Outside of writing code, I enjoy exploring new technologies, experimenting with ideas, and continuously improving my development skills.
 
  **Build with purpose. Learn continuously. Improve every day.**
 
 
 ## Tech Stack
-
 <div align="center">
 
 ### Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
 ### Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### Database
-
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
 ### Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 
 </div>
@@ -46,7 +37,6 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 ---
 
 ## What I Build
-
 *  Frontend websites and applications 
 *  Full-stack web applications
 *  Modern React websites
