@@ -38,19 +38,19 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-<br><br>
+<br>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<br><br>
+<br>
 
 ###  Database
 
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
-<br><br>
+<br>
 
 ### Tools
 
@@ -109,4 +109,4 @@ Data Structures  ███████████░░░░░░░░░  5
 
 <div align="left">
   
-<div align="center"> <a href="https://github.com/Atharv-mu"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/atharvholkar/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:atharvholkar41@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> ```
+<div align="center"> <a href="https://github.com/Atharv-mu"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/atharvholkar/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:atharvholkar41@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> 
