@@ -65,7 +65,6 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 ##  What I Build
 
-<div align="left">
 * 🌐 **Frontend:** Frontend websites and modern web applications
 * ⚛️ **React:** Modern, responsive React websites
 * 🔌 **Backend:** Scalable backend systems and RESTful APIs
