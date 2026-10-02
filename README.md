@@ -33,7 +33,7 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 ---
 
-##  Tech Stack
+##  Tech Stacks
 
 <div align="left">
 
@@ -66,9 +66,6 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 ##  What I Build
 
 <div align="left">
-
-### What I Build
-
 * 🌐 **Frontend:** Frontend websites and modern web applications
 * ⚛️ **React:** Modern, responsive React websites
 * 🔌 **Backend:** Scalable backend systems and RESTful APIs
