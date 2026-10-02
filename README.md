@@ -24,7 +24,9 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 <div align="center">
 
-###  Build with purpose. Learn continuously. Improve every day.
+## View my latest portfolio, I would love to hear your feedback <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3198e4e1-a12f-4304-947e-9925b13b4060" />
+
+## https://atharv-mu.github.io/Current-portfolio/
 
 </div>
 
