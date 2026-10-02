@@ -24,7 +24,7 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 <div align="center">
 
-## View my latest portfolio, I would love to hear your feedback <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3198e4e1-a12f-4304-947e-9925b13b4060" />
+## View my Latest portfolio, I would love to hear your feedback https://icons8.com/icon/XFOumBmRR5zT/feedback-hub
 
 ## https://atharv-mu.github.io/Current-portfolio/
 
