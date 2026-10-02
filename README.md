@@ -69,20 +69,14 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 ### What I Build
 
-| Area | What I Build |
-| :--- | :--- |
-| 🌐 **Frontend** | Frontend websites and modern web applications |
-| ⚛️ **React** | Modern, responsive React websites |
-| 🔌 **Backend** | Scalable backend systems and RESTful APIs |
-| 🔒 **Authentication** | Authentication & authorization systems |
-| 🍃 **Database** | MongoDB-powered applications |
-| 📱 **UI/UX** | Responsive and user-friendly web interfaces |
-| 📦 **Full Stack** | Complete MERN stack applications |
-| 🚀 **Production** | Production-ready web applications |
-
-</div>
-
----
+* 🌐 **Frontend:** Frontend websites and modern web applications
+* ⚛️ **React:** Modern, responsive React websites
+* 🔌 **Backend:** Scalable backend systems and RESTful APIs
+* 🔒 **Authentication:** Authentication & authorization systems
+* 🍃 **Database:** MongoDB-powered applications
+* 📱 **UI/UX:** Responsive and user-friendly web interfaces
+* 📦 **Full Stack:** Complete MERN stack applications
+* 🚀 **Production:** Production-ready web applications
 
 ## Contribution Snake
 
