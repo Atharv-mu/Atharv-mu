@@ -1,5 +1,7 @@
 <img src="assets/banner.svg" width="100%" alt="Atharv Holkar - Full Stack MERN Developer"/>
 
+
+<div align="center">
 # 👋 Hey, I'm Atharv Holkar
 
 ## 💻 Full Stack MERN Developer | Problem Solver
