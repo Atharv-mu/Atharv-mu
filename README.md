@@ -1,5 +1,3 @@
----
-
 ## <font color="#58A6FF">About Me</font>
 
 Hi, I am **<font color="#A78BFA">Atharv Holkar</font>**, a passionate **<font color="#58A6FF">Full-Stack MERN Developer</font>** from India 🇮🇳. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
