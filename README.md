@@ -1,61 +1,50 @@
-<div align="center">
-
-<img src="assets/banner.svg" width="100%" alt="Atharv Holkar - Full Stack MERN Developer"/>
-
-# 👋 Hey, I'm Atharv Holkar
-
-## 💻 Full Stack MERN Developer | Problem Solver
-
-</div>
-
 ---
 
-##  About Me
+## <font color="#58A6FF">About Me</font>
 
-Hi, I am **Atharv Holkar**, a passionate **Full-Stack MERN Developer** from India 🇮🇳. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
+Hi, I am **<font color="#A78BFA">Atharv Holkar</font>**, a passionate **<font color="#58A6FF">Full-Stack MERN Developer</font>** from India 🇮🇳. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
 
-I work primarily with **JavaScript, React.js, Node.js, Express.js, and MongoDB**, and I enjoy working across both frontend and backend development. From designing clean user interfaces to building RESTful APIs and managing databases, I like understanding the complete development process.
+I work primarily with **<font color="#58A6FF">JavaScript, React.js, Node.js, Express.js, and MongoDB</font>**, and I enjoy working across both frontend and backend development. From designing clean user interfaces to building RESTful APIs and managing databases, I like understanding the complete development process.
 
-I am a **problem solver and decision maker** who believes that good development is not just about writing code, but also about choosing the right approach, understanding the problem, and creating solutions that are simple, efficient, and maintainable.
+I am a **<font color="#A78BFA">problem solver and decision maker</font>** who believes that good development is not just about writing code, but also about choosing the right approach, understanding the problem, and creating solutions that are simple, efficient, and maintainable.
 
-Currently, I am expanding my knowledge of **Aptitude, Data Structures, and System Design** while working on projects that challenge me to learn and improve.
+Currently, I am expanding my knowledge of **<font color="#58A6FF">Aptitude, Data Structures, and System Design</font>** while working on projects that challenge me to learn and improve.
 
 Outside of writing code, I enjoy exploring new technologies, experimenting with ideas, and continuously improving my development skills.
 
 <div align="center">
 
-## View my Latest portfolio, I would love to hear your feedback   <img width="25" height="22" alt="image" src="https://github.com/user-attachments/assets/8b1dee13-5942-4e39-8697-1685a00b7d56" />
+## <font color="#58A6FF">View my Latest portfolio, I would love to hear your feedback</font>   <img width="25" height="22" alt="image" src="https://github.com/user-attachments/assets/8b1dee13-5942-4e39-8697-1685a00b7d56" />
 
-
-## https://atharv-mu.github.io/Current-portfolio/
+## <font color="#A78BFA">https://atharv-mu.github.io/Current-portfolio/</font>
 
 </div>
 
 ---
 
-##  Tech Stacks
+## <font color="#58A6FF">Tech Stacks</font>
 
 <div align="left">
 
-###  Frontend
+### <font color="#A78BFA">Frontend</font>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
 <br>
 
-### Backend
+### <font color="#A78BFA">Backend</font>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br>
 
-###  Database
+### <font color="#A78BFA">Database</font>
 
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
 <br>
 
-### Tools
+### <font color="#A78BFA">Tools</font>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 
@@ -63,34 +52,33 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 ---
 
-##  What I Build
+## <font color="#58A6FF">What I Build</font>
 
-* 🌐 **Frontend:** Frontend websites and modern web applications
-* ⚛️ **React:** Modern, responsive React websites
-* 🔌 **Backend:** Scalable backend systems and RESTful APIs
-* 🔒 **Authentication:** Authentication & authorization systems
-* 🍃 **Database:** MongoDB-powered applications
-* 📱 **UI/UX:** Responsive and user-friendly web interfaces
-* 📦 **Full Stack:** Complete MERN stack applications
-* 🚀 **Production:** Production-ready web applications
+* 🌐 **<font color="#A78BFA">Frontend:</font>** Frontend websites and modern web applications
+* ⚛️ **<font color="#A78BFA">React:</font>** Modern, responsive React websites
+* 🔌 **<font color="#A78BFA">Backend:</font>** Scalable backend systems and RESTful APIs
+* 🔒 **<font color="#A78BFA">Authentication:</font>** Authentication & authorization systems
+* 🍃 **<font color="#A78BFA">Database:</font>** MongoDB-powered applications
+* 📱 **<font color="#A78BFA">UI/UX:</font>** Responsive and user-friendly web interfaces
+* 📦 **<font color="#A78BFA">Full Stack:</font>** Complete MERN stack applications
+* 🚀 **<font color="#A78BFA">Production:</font>** Production-ready web applications
 
-## Contribution Snake
+## <font color="#58A6FF">Contribution Snake</font>
 
 <div align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/Atharv-mu/Atharv-mu/output/github-contribution-grid-snake.svg" 
-  alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Atharv-mu/Atharv-mu/output/github-contribution-grid-snake.svg" 
+alt="GitHub Contribution Snake"
 />
 
 </div>
 
 ---
-   
-## Currently Learning
+
+## <font color="#58A6FF">Currently Learning</font>
 
 <div align="left">
-
 
 <pre style="display: inline-block; text-align: left;">
 System Design    ███████████████░░░░░  75%
@@ -100,8 +88,9 @@ Data Structures  ███████████░░░░░░░░░  5
 
 </div>
 
-## Let us Collaborate
+## <font color="#58A6FF">Let us Collaborate</font>
 
 <div align="left">
-  
+
 <div align="center"> <a href="https://github.com/Atharv-mu"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/atharvholkar/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:atharvholkar41@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> 
+
