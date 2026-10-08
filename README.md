@@ -25,12 +25,12 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 <div align="center">
 
-## View my Latest portfolio, I would love to hear your feedback <p align="center">
+## View my Latest portfolio, I would love to hear your feedback <p align="center"> <p align="right">
+<img src="https://github.com/user-attachments/assets/91461fe5-6c55-43c8-a240-67b20203f04d" alt="Feedback Icon" width="180" height="180">
+</p>
+
 
 ## https://atharv-mu.github.io/Current-portfolio/
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/91461fe5-6c55-43c8-a240-67b20203f04d" alt="Feedback Icon" width="180" height="180">
-</p>
 
 
 </div>
