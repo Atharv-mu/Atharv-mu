@@ -36,30 +36,6 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 ---
 
-## 💬 I would Love to Hear Your Feedback!
-
-<p align="center">
-  <img
-    width="280"
-    alt="Feedback"
-    src="https://github.com/user-attachments/assets/b856129c-c0c3-4367-b0fe-692e3780565d"
-  />
-</p>
-
-<p align="center">
-  Have suggestions, ideas, or feedback about my work?
-  <br/>
-  I'd love to hear from you!
-  <br/><br/>
-  <strong>✨ Every suggestion helps me grow and improve.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Atharv-mu/Atharv-mu/issues">
-    <img src="https://img.shields.io/badge/Share_Feedback-181717?style=for-the-badge&logo=github&logoColor=white" alt="Share Feedback"/>
-  </a>
-</p>
-
 ## Tech Stacks
 
 <div align="left">
