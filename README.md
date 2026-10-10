@@ -1,6 +1,5 @@
 <img src="assets/banner.svg" width="100%" alt="Atharv Holkar - Full Stack MERN Developer"/>
 
-
 <div align="center">
 
 ## 👋 Hey, I'm Atharv Holkar
@@ -11,7 +10,7 @@
 
 ---
 
-##  About Me
+## About Me
 
 Hi, I am Atharv Holkar, a passionate Full-Stack MERN Developer from India. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
 
@@ -25,7 +24,6 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 <div align="center">
 
-
 ## 🌐 Explore My Latest Portfolio
 
 <p align="center">
@@ -33,6 +31,8 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
     <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio"/>
   </a>
 </p>
+
+</div>
 
 ---
 
@@ -60,27 +60,27 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
   </a>
 </p>
 
-##  Tech Stacks
+## Tech Stacks
 
 <div align="left">
 
-###  Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-<br>
+<br />
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<br>
+<br />
 
-###  Database
+### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
-<br>
+<br />
 
 ### Tools
 
@@ -90,24 +90,23 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 ---
 
-##  What I Build
+## What I Build
 
-*  **Frontend:** Frontend websites and modern web applications
-*  **React:** Modern, responsive React websites
-*  **Backend:** Scalable backend systems and RESTful APIs
-*  **Authentication:** Authentication & authorization systems
-*  **Database:** MongoDB-powered applications
-*  **UI/UX:** Responsive and user-friendly web interfaces
-*  **Full Stack:** Complete MERN stack applications
-*  **Production:** Production-ready web applications
-
+- **Frontend:** Modern websites and web applications
+- **React:** Responsive React applications
+- **Backend:** Scalable backend systems and RESTful APIs
+- **Authentication:** Authentication and authorization systems
+- **Database:** MongoDB-powered applications
+- **UI/UX:** Responsive and user-friendly interfaces
+- **Full Stack:** Complete MERN stack applications
+- **Production:** Production-ready web applications
 
 ## Contribution Snake
 
 <div align="center">
 
-<img 
-  src="https://raw.githubusercontent.com/Atharv-mu/Atharv-mu/output/github-contribution-grid-snake.svg" 
+<img
+  src="https://raw.githubusercontent.com/Atharv-mu/Atharv-mu/output/github-contribution-grid-snake.svg"
   alt="GitHub Contribution Snake"
 />
 
@@ -119,9 +118,26 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 <div align="left">
 
-
 <pre style="display: inline-block; text-align: left;">
 System Design    ███████████████░░░░░  75%
 Aptitude         ███████████████░░░░░  75%
 Data Structures  ███████████░░░░░░░░░  55%
-</pre>isko sahi karke do
+</pre>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+<a href="https://github.com/Atharv-mu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/atharvholkar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:atharvholkar41@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
