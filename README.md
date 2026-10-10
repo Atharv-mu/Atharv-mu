@@ -25,7 +25,7 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 <div align="center">
 
-## View my Latest portfolio, I would love to hear your feedback <p align="center"> <p align="right"> https://www.bing.com/th/id/OIP.tGS_e2X2NtElOlDtWPvhRwHaHa?w=193&h=193&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=ImgAns&rm=2
+## View my Latest portfolio, I would love to hear your feedback <p align="center"> <p align="right">
 
 ## https://atharv-mu.github.io/Current-portfolio/
 
