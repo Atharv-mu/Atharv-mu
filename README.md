@@ -26,21 +26,45 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 <div align="center">
 
 
+## 🌐 Explore My Latest Portfolio
 
+<p align="center">
+  <a href="https://atharv-mu.github.io/Current-portfolio/">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
 
+---
 
-## View my Latest portfolio https://atharv-mu.github.io/Current-portfolio/
+## 💬 I would Love to Hear Your Feedback!
 
+<p align="center">
+  <img
+    width="280"
+    alt="Feedback"
+    src="https://github.com/user-attachments/assets/b856129c-c0c3-4367-b0fe-692e3780565d"
+  />
+</p>
 
-## I would love to hear your feedback <p align="center"> 
+<p align="center">
+  Have suggestions, ideas, or feedback about my work?
+  <br/>
+  I'd love to hear from you!
+  <br/><br/>
+  <strong>✨ Every suggestion helps me grow and improve.</strong>
+</p>
 
-<p align="centre"> <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b856129c-c0c3-4367-b0fe-692e3780565d" />
+<p align="center">
+  <a href="https://github.com/Atharv-mu/Atharv-mu/issues">
+    <img src="https://img.shields.io/badge/Share_Feedback-181717?style=for-the-badge&logo=github&logoColor=white" alt="Share Feedback"/>
+  </a>
+</p>
 
+---
 
-
-
-</div>
-
+<p align="center">
+  <i>Thanks for visiting my profile! 😊</i>
+</p>
 ---
 
 ##  Tech Stacks
