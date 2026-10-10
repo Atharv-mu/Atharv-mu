@@ -60,13 +60,6 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! 😊</i>
-</p>
----
-
 ##  Tech Stacks
 
 <div align="left">
