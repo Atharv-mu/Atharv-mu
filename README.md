@@ -12,7 +12,7 @@
 
 ## About Me
 
-Hi, I am Atharv Holkar, a passionate Full-Stack MERN Developer from India. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
+Hi, I'm Atharv Holkar, a passionate Full-Stack MERN Developer from India. I enjoy building modern, responsive, and scalable web applications that solve real-world problems.
 
 I work primarily with JavaScript, React.js, Node.js, Express.js, and MongoDB, and I enjoy working across both frontend and backend development. From designing clean user interfaces to building RESTful APIs and managing databases, I like understanding the complete development process.
 
