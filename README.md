@@ -24,7 +24,7 @@ Outside of writing code, I enjoy exploring new technologies, experimenting with 
 
 <div align="center">
 
-## 🌐 Explore My Latest Portfolio
+## Explore My Latest Portfolio
 
 <p align="center">
   <a href="https://atharv-mu.github.io/Current-portfolio/">
