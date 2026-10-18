@@ -112,7 +112,7 @@ Data Structures  ███████████░░░░░░░░░  5
 <a href="https://www.linkedin.com/in/atharvholkar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:atharvholkar41@gmail.com">
+<a href="mailto:atharvholkar78@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
