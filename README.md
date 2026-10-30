@@ -4,7 +4,7 @@
 
 ## 👋 Hey, I'm Atharv Holkar
 
-## 💻 Full Stack MERN Developer | Problem Solver
+## 💻 Frontend Developer | Problem Solver
 
 </div>
 
